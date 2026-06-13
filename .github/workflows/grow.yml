@@ -6,14 +6,18 @@
 # heartbeat; a mature repo's heartbeat shepherds the newest growing member.
 #
 # Required repository/org secrets (see LIFECYCLE.md → Setup):
-#   ANTHROPIC_API_KEY        — Claude API key (primary auth for claude-code-action).
+#   CLAUDE_CODE_OAUTH_TOKEN  — Claude subscription OAuth token (generate with
+#                              `claude setup-token`). PRIMARY auth for the tick.
+#                              The API key proved unreliable across this lineage
+#                              (invalid-key / exhausted-credit silent no-ops in
+#                              runs #26–27 and the 1776 germination), so the
+#                              subscription drives the tick and the API key is the
+#                              fallback. Keep this set.
 #   LIFECYCLE_PAT            — PAT with contents:write + repo-creation/archive rights
 #                              on the owner org. Needed for replant/consolidate and
 #                              shepherd mode; plain growth ticks work without it.
-#   CLAUDE_CODE_OAUTH_TOKEN  — optional fallback: a Claude subscription OAuth token
-#                              (generate with `claude setup-token`). If the API-key
-#                              run fails (e.g. credits exhausted), the tick is
-#                              retried once on the subscription.
+#   ANTHROPIC_API_KEY        — fallback auth: a Claude API key. Used only if the
+#                              subscription run fails (e.g. token expired/revoked).
 #
 # Model policy: the tick runs on the model named in lifecycle.yml →
 # policy.models.tick (default claude-sonnet-4-6). Growth ticks are research +
@@ -129,9 +133,9 @@ jobs:
           echo "model=$model" >> "$GITHUB_OUTPUT"
           echo "Phase: $phase — model: $model (members=${members:-0}, distill threshold=${threshold:-unset})"
 
-      - name: Run one lifecycle-gated tick (API credits)
+      - name: Run one lifecycle-gated tick (Claude subscription)
         id: primary
-        continue-on-error: true # fall back to the Claude subscription below
+        continue-on-error: true # fall back to the API key below
         uses: anthropics/claude-code-action@v1
         env:
           # claude-code-action overrides GH_TOKEN/GITHUB_TOKEN in the agent's
@@ -142,7 +146,10 @@ jobs:
           LIFECYCLE_PAT: ${{ secrets.LIFECYCLE_PAT }}
           PHASE: ${{ steps.model.outputs.phase }}
         with:
-          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Subscription OAuth is the PRIMARY auth — the API key proved unreliable
+          # across this lineage (invalid-key no-ops). The API-key step below is the
+          # fallback for when the subscription token expires.
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           prompt: ${{ env.TICK_PROMPT }}
           # Agent mode denies Bash (git push, gh repo create) by default — allow the
           # tools the tick pipeline needs. show_full_output surfaces the tick report
@@ -167,18 +174,20 @@ jobs:
             > /tmp/agent-telemetry/meta.json
 
       # claude-code-action exits 0 even when the agent's final result is an error
-      # (e.g. "Credit balance is too low", "Invalid API key"): the result element
-      # carries subtype:"success" with is_error:true. Detect ANY failed primary
-      # attempt from the execution output — not just credit exhaustion — so the
-      # subscription fallback fires. (Telemetry from runs #26–27 showed two
-      # silent no-op ticks where an invalid key slipped past a credit-only grep.)
+      # (e.g. token expired/revoked, "Invalid API key"): the result element carries
+      # subtype:"success" with is_error:true. Detect ANY failed primary attempt
+      # from the execution output — not just credit exhaustion — so the API-key
+      # fallback fires. (Telemetry from runs #26–27 showed two silent no-op ticks
+      # where an invalid key slipped past a credit-only grep.)
       - name: Detect primary failure
         id: credits
         if: always()
         run: |
           out=/home/runner/work/_temp/claude-execution-output.json
           mkdir -p /tmp/agent-telemetry
-          [ -f "$out" ] && cp "$out" /tmp/agent-telemetry/execution-api-key.json
+          # Primary is now the subscription run — stage it under that name so the
+          # telemetry ledger's attempts.subscription field stays accurate.
+          [ -f "$out" ] && cp "$out" /tmp/agent-telemetry/execution-subscription.json
           failed=false
           if [ -f "$out" ]; then
             # The execution output is a stream-json array; the final result
@@ -193,18 +202,18 @@ jobs:
           [ "$failed" = true ] && echo "::warning::Primary (API-key) attempt failed — falling back to Claude subscription"
           true
 
-      # Fallback: if the API-key run failed (credits exhausted, auth error, etc.),
-      # retry the tick once on the Claude subscription via OAuth token. Skipped
-      # cleanly when the secret is unset. Ticks are gated and republish-safe, so a
-      # double attempt cannot double-apply a tick.
-      - name: Run one lifecycle-gated tick (Claude subscription fallback)
+      # Fallback: if the subscription run failed (token expired/revoked, etc.),
+      # retry the tick once on the API key. Skipped cleanly when the secret is
+      # unset. Ticks are gated and republish-safe, so a double attempt cannot
+      # double-apply a tick.
+      - name: Run one lifecycle-gated tick (API-key fallback)
         if: steps.primary.outcome == 'failure' || steps.credits.outputs.exhausted == 'true'
         uses: anthropics/claude-code-action@v1
         env:
           LIFECYCLE_PAT: ${{ secrets.LIFECYCLE_PAT }}
           PHASE: ${{ steps.model.outputs.phase }}
         with:
-          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           prompt: ${{ env.TICK_PROMPT }}
           claude_args: >-
             --model ${{ steps.model.outputs.model }}
@@ -217,11 +226,43 @@ jobs:
         run: |
           out=/home/runner/work/_temp/claude-execution-output.json
           # Only the fallback's output remains at this path if that step ran
-          # (each action invocation overwrites it; the API-key copy was staged
+          # (each action invocation overwrites it; the subscription copy was staged
           # by the detect step before the fallback started).
           if [ -f "$out" ] && [ "${{ steps.credits.outputs.exhausted }}" = "true" -o "${{ steps.primary.outcome }}" = "failure" ]; then
-            cp "$out" /tmp/agent-telemetry/execution-subscription.json
+            cp "$out" /tmp/agent-telemetry/execution-api-key.json
           fi
+
+      # Publish safety net. The tick publishes through the publish-session skill
+      # (encode-seed → commit → push). If the agent produces content but ends
+      # before publishing — observed at 1776 germination, where genesis wrote
+      # seed.md/README/ROADMAP then stopped after sync-seed without committing —
+      # the runner would discard the work and the run would falsely read as a
+      # success. Catch that: if the tree is dirty after both auth attempts, commit
+      # and push what the agent left so a tick is never silently lost. A clean tree
+      # (agent already published, or produced nothing) makes this a no-op.
+      - name: Publish safety net (push any unpublished tick output)
+        if: always()
+        env:
+          LIFECYCLE_PAT: ${{ secrets.LIFECYCLE_PAT }}
+          GH_FALLBACK_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Working tree clean — agent published or produced no change; nothing to do."
+            exit 0
+          fi
+          echo "::warning::Agent left uncommitted changes — publishing via safety net (publish-session was not reached)."
+          git config user.name "claude-grow"
+          git config user.email "noreply@anthropic.com"
+          tok="${LIFECYCLE_PAT:-$GH_FALLBACK_TOKEN}"
+          git remote set-url origin "https://x-access-token:${tok}@github.com/${GITHUB_REPOSITORY}.git"
+          git add -A
+          git commit -m "chore: publish tick output (safety net — publish-session not reached)"
+          for i in 1 2 3; do
+            git push origin HEAD:main && exit 0
+            git pull --rebase origin main || true
+          done
+          git push origin HEAD:main
 
       - name: Upload agent telemetry artifact
         if: always()
