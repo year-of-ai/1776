@@ -10,6 +10,13 @@ Keep the **foundational logic** — `.github/` (instructions, skills, agents, pr
 lineage, in both directions, with a pull-request audit trail. Claude is the intermediary: it
 authors the PRs, and it merges them.
 
+> **Forward pollination is now deterministic.** `.github/scripts/lineage.sh` runs before the
+> agent on every tick and mirrors the canonical framework into drifted successors (Direction 1)
+> with zero model turns — telemetry showed the hand-run forward pass was the lineage's single
+> biggest cost sink. This skill is now used for the **backward** path (Direction 2, which needs
+> judgement) and for manual propagation after an `/evolve`. Do not re-run Direction 1 by hand on
+> a shepherd tick; that duplicates `lineage.sh`.
+
 ## Scope guard (hard rules)
 
 - **Framework files only**: `.github/`, `.claude/`, `CLAUDE.md`, `LIFECYCLE.md`.
@@ -54,8 +61,10 @@ a prompt or skill while working there. Those learnings must not die in the membe
 
 ## Cadence
 
-Invoked by the shepherd on every tick (forward before the tick, backward after). One PR per repo
-per direction per run, maximum. Idempotent: a rerun with no drift produces nothing.
+Forward (Direction 1) is handled deterministically by `.github/scripts/lineage.sh` before each
+tick — not by this skill. Invoke this skill for the **backward** pass (after a member tick that
+changed framework files) and for manual `/evolve` propagation. One PR per repo per direction per
+run, maximum. Idempotent: a rerun with no drift produces nothing.
 
 ## Output Format
 

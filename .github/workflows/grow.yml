@@ -59,34 +59,28 @@ env:
                         month granularity and seed the next era's lineage —
                         consolidation is not terminal). Publish and stop.
        - dormant     -> shepherd mode (step 3).
-    3. Shepherd mode — this repo is mature but the lineage lives on. Read
-       lifecycle.yml and walk the lineage chain to the NEWEST member: clone
-       each successor with
-       git clone "https://x-access-token:${LIFECYCLE_PAT}@github.com/<owner>/<repo>.git"
-       and read ITS lifecycle.yml (each member appends its own successor),
-       until you reach the newest member. RECONCILE THE REGISTRY: this
-       repo's lifecycle.yml lineage is the registry the phase resolver
-       reads — append any members discovered during the walk that it lacks
-       (and correct stale statuses), commit and push as
-       "chore: reconcile lineage registry". Before executing the tick there,
-       run the POLLINATE skill (forward pass): propagate this repo's
-       canonical framework (.github/, .claude/, CLAUDE.md, LIFECYCLE.md)
-       into any drifted lineage member via an auto-merged pull request —
-       never touching content, seed.md, ROADMAP.md, or lifecycle.yml.
-       KNOWN FACT (learning L002 — do NOT re-investigate or re-flag each
-       run): .github/workflows/ is intentionally NOT propagated while
-       LIFECYCLE_PAT lacks `workflow` scope; pollinate excludes it by
-       design and the lineage runs on this shepherd. Skip workflow files
-       silently — do not diff, attempt, or report them. Then
-       cd into the newest member's clone and run this same procedure from
-       step 1 there — germinate it via /genesis if it has no seed, else obey
-       its check-lifecycle gate (grow / replant / consolidate). After the
-       tick, run the POLLINATE skill (backward pass): if the tick changed
-       framework files in the member (e.g. /evolve learnings), open an
-       auto-merged PR carrying them back into this repo so the next forward
-       pass fans them out lineage-wide. All cross-repo pushes go through the
-       LIFECYCLE_PAT remote. If the newest member is already consolidated,
-       report that the lineage is complete and exit without changes.
+    3. Shepherd mode — this repo is mature but the lineage lives on. The
+       workflow has ALREADY run the deterministic lineage step before you
+       (.github/scripts/lineage.sh): the registry in lifecycle.yml is
+       reconciled and this repo's canonical framework has been forward-
+       pollinated into every drifted successor. DO NOT redo any of that — no
+       lineage chain-walk, no registry reconcile, no per-file framework
+       diffing, no forward POLLINATE pass, and do not check this repo's own
+       git status. Your job is only the newest member's content tick:
+       a. Read lifecycle.yml, find the newest member whose status is
+          `growing`. If it is already consolidated, report the lineage is
+          complete and exit with no changes.
+       b. Clone it with
+          git clone "https://x-access-token:${LIFECYCLE_PAT}@github.com/<owner>/<repo>.git",
+          cd in, and run this same procedure from step 1 there — germinate via
+          /genesis if it has no seed, else obey its check-lifecycle gate
+          (grow / replant / consolidate). Publish via publish-session.
+       c. Backward pass — ONLY if your tick changed framework files in the
+          member (e.g. an /evolve learning): run the POLLINATE skill to open one
+          auto-merged PR carrying just those framework changes back into this
+          repo, so the next deterministic forward pass fans them lineage-wide. A
+          content-only tick changes no framework files — skip this silently, do
+          not diff or report it. All cross-repo pushes use the LIFECYCLE_PAT remote.
 
     Follow the repository's CLAUDE.md and canonical .github/ prompts exactly;
     publish only through the publish-session skill. The ambient GitHub token
@@ -132,6 +126,22 @@ jobs:
           echo "phase=$phase" >> "$GITHUB_OUTPUT"
           echo "model=$model" >> "$GITHUB_OUTPUT"
           echo "Phase: $phase — model: $model (members=${members:-0}, distill threshold=${threshold:-unset})"
+
+      # Deterministic lineage maintenance — runs BEFORE the agent so the model is
+      # spent only on the content tick, not on mechanical git plumbing. Telemetry
+      # showed the shepherd path (forward-pollinate + registry reconcile) was
+      # ~73% of turns / 62% of cost, executed as ~40 hand-issued Bash calls per
+      # run (14 diffs + copies + clones). This step does that work as fixed code:
+      # forward-pollinates the canonical framework into drifted members and
+      # reconciles the registry. Idempotent and concept-agnostic; a clean lineage
+      # (or a lone growing repo, like a freshly planted successor) is a no-op.
+      # Self-guards on LIFECYCLE_PAT and isolates per-member failures, so it can
+      # never block the downstream tick. TICK_PROMPT step 3 assumes it already ran.
+      - name: Lineage maintenance (deterministic — pollinate forward + reconcile registry)
+        continue-on-error: true
+        env:
+          LIFECYCLE_PAT: ${{ secrets.LIFECYCLE_PAT }}
+        run: bash .github/scripts/lineage.sh
 
       - name: Run one lifecycle-gated tick (Claude subscription)
         id: primary
