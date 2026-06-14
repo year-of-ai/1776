@@ -48,4 +48,7 @@ List the selected **Now** items (with tags) and a one-line rationale for each.
 ## Notes
 - This skill plans only — it does not research, write content, or commit. The **architect** executes
   the selected items.
+- **Planning is the START of a tick, never the end.** After this returns "Roadmap updated", the
+  caller MUST execute every selected Now item (add-topic / deep-dive) and then publish. A tick that
+  stops here writes no knowledge and wastes the run. Do not treat "items selected" as tick completion.
 - Keep ROADMAP.md concise; prune stale Done entries beyond the most recent ~15.
