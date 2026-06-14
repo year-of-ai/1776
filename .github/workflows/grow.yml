@@ -252,9 +252,6 @@ jobs:
       # (agent already published, or produced nothing) makes this a no-op.
       - name: Publish safety net (push any unpublished tick output)
         if: always()
-        env:
-          LIFECYCLE_PAT: ${{ secrets.LIFECYCLE_PAT }}
-          GH_FALLBACK_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
           if [ -z "$(git status --porcelain)" ]; then
@@ -264,11 +261,13 @@ jobs:
           echo "::warning::Agent left uncommitted changes — publishing via safety net (publish-session was not reached)."
           git config user.name "claude-grow"
           git config user.email "noreply@anthropic.com"
-          tok="${LIFECYCLE_PAT:-$GH_FALLBACK_TOKEN}"
-          git remote set-url origin "https://x-access-token:${tok}@github.com/${GITHUB_REPOSITORY}.git"
           git add -A
           git commit -m "chore: publish tick output (safety net — publish-session not reached)"
-          for i in 1 2 3; do
+          # Push with the credentials actions/checkout already persisted (the same path
+          # telemetry.yml uses successfully). Do NOT `git remote set-url` with a token —
+          # that overrode checkout's working auth header and failed with
+          # "Invalid username or token" in run 27483302885.
+          for _ in 1 2 3; do
             git push origin HEAD:main && exit 0
             git pull --rebase origin main || true
           done

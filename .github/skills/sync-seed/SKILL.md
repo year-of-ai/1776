@@ -39,6 +39,11 @@ Leave section 8 exactly as-is. Appending to it is the job of the `encode-seed` p
 ### Step 4 — Confirm
 Report which sections changed and a one-line diff summary (e.g. "Architecture: +1 file; Content: 13→15 rows").
 
+**sync-seed is a mid-pipeline step, never the end of a tick.** After it, the caller MUST still run
+`encode-seed` (append §8) and `publish-session` (commit + push to main). Do not let "sync complete"
+read as tick completion — a tick that stops here has committed and pushed nothing, and all its work
+is discarded when the runner is torn down. (Observed failure mode: ticks ending at "Sync complete.")
+
 ---
 
 ## Notes

@@ -26,6 +26,12 @@ Delegate the full tick to the **Architect** agent
    the generation tick counter.
 6. **Publish** — **publish-session** skill commits and pushes to `main`.
 
+**Steps 5–6 are mandatory and terminal.** A tick is complete ONLY after `publish-session` has
+committed and pushed to `main` (step 6) — `sync-seed` is NEVER the last step. Even when the content
+and structure work feels finished, you MUST still run `encode-seed` then `publish-session` and
+confirm the push before stopping. A tick that ends after "sync complete" loses all its work and does
+not advance the §8 tick counter the lifecycle gate reads.
+
 End with the Architect's Tick Summary (items done, structure regenerated, roadmap delta, commit SHA).
 
 > Unattended use: register this prompt as a recurring Claude routine via `/schedule` (e.g. daily),
