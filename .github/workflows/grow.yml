@@ -286,9 +286,16 @@ jobs:
           if [ -f seed.md ] && grep -qE '^### G[0-9]+-T[0-9]+' seed.md; then
             last=$(grep -oE '^### G[0-9]+-T[0-9]+' seed.md | tail -1)
             gen=$(printf '%s' "$last" | sed -E 's/^### G([0-9]+)-T([0-9]+)/\1/')
-            tk=$(printf '%s' "$last" | sed -E 's/^### G([0-9]+)-T([0-9]+)/\2/')
-            printf '\n### G%s-T%s — %s — Growth tick (safety net)\n**Action**: Tick published by the workflow safety net; the agent ended before publish-session.\n**Outcome**: Content/structure committed in this commit; §8 entry added so the lifecycle counter advances.\n' \
-              "$gen" "$((tk+1))" "$(date -u +%Y-%m-%d)" >> seed.md
+            seq=$(printf '%s' "$last" | sed -E 's/^### G([0-9]+)-T([0-9]+)/\2/')
+            # check-lifecycle counts ONLY entries titled "Tick N:" since the last
+            # Genesis/Replant. Number this entry with that scheme (the same counter
+            # the agent's encode-seed uses) so a safety-net tick advances the replant
+            # counter. Titling it "Growth tick (safety net)" left it uncounted, so
+            # generation_ticks stalled and the repo would not replant (runs #7/#9).
+            bnd=$(grep -nE '^### G[0-9]+-T[0-9]+ .*(Genesis|Replant)' seed.md | tail -1 | cut -d: -f1)
+            n=$(tail -n +"${bnd:-1}" seed.md | grep -cE '— Tick [0-9]+:')
+            printf '\n### G%s-T%s — %s — Tick %s: growth tick (published by safety net)\n**Action**: Content/structure work published by the workflow safety net; the agent ended before publish-session.\n**Outcome**: Changes committed in this commit; titled "Tick N" so check-lifecycle counts it toward replant.\n' \
+              "$gen" "$((seq+1))" "$(date -u +%Y-%m-%d)" "$((n+1))" >> seed.md
           fi
           git config user.name "claude-grow"
           git config user.email "noreply@anthropic.com"
