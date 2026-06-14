@@ -37,7 +37,9 @@ Read [seed.md](../../seed.md) (Concept Definition + inventories), [ROADMAP.md](.
 ### 2 — Plan
 Invoke the **plan-roadmap** skill to score and select the next 1–3 items (tagged
 `content` / `structure` / `meta`). If the user passed targets, use those. plan-roadmap rewrites
-`ROADMAP.md` with the chosen items under **Now**.
+`ROADMAP.md` with the chosen items under **Now**. **After plan-roadmap returns, proceed
+immediately to Step 3 — planning is not a complete tick. Do not stop here regardless of how
+comprehensive the roadmap update looks.**
 
 ### 3 — Execute
 For each selected item:
