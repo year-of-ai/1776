@@ -87,23 +87,26 @@ This repository is simultaneously:
 
 | Category | Slug | README rows | Dedicated files |
 |---|---|---|---|
-| Political Events | politics | 2 | 1 |
-| Military Events | military | 2 | 1 |
+| Political Events | politics | 2 | 2 |
+| Military Events | military | 2 | 2 |
 | Science & Discovery | science | 1 | 1 |
-| Arts & Culture | arts | 2 | 1 |
+| Arts & Culture | arts | 2 | 2 |
 | Economics & Trade | economics | 1 | 1 |
 | Key Figures | people | 1 | 1 |
 
-**Total README rows**: 9
-**Total dedicated topic files**: 6
+**Total README rows**: 9 (all linked to dedicated files)
+**Total dedicated topic files**: 9
 
 ### Dedicated topic files
 
 - `arts/decline-and-fall-roman-empire.md` — Edward Gibbon's Decline and Fall of the Roman Empire Vol. 1 (1776-02-17)
+- `arts/mozart-1776.md` — Mozart in 1776: prolific Salzburg compositions (1776-01-01)
 - `economics/wealth-of-nations.md` — The Wealth of Nations (1776-03-09)
+- `military/battle-of-long-island.md` — Battle of Long Island (1776-08-27)
 - `military/battle-of-trenton.md` — Battle of Trenton (1776-12-26)
 - `people/thomas-paine.md` — Thomas Paine / Common Sense (1776-01-10)
 - `politics/declaration-of-independence.md` — Declaration of Independence (1776-07-04)
+- `politics/virginia-declaration-of-rights.md` — Virginia Declaration of Rights (1776-06-12)
 - `science/captain-cook-third-voyage.md` — Captain Cook's Third Voyage (1776-07-12)
 
 ---
@@ -112,14 +115,15 @@ This repository is simultaneously:
 
 | Artifact | Status |
 |---|---|
-| `TIMELINE.md` | not yet generated |
-| `INDEX.md` | not yet generated |
-| `politics/index.md` | not yet generated |
-| `military/index.md` | not yet generated |
-| `science/index.md` | not yet generated |
-| `arts/index.md` | not yet generated |
-| `economics/index.md` | not yet generated |
-| `people/index.md` | not yet generated |
+| `TIMELINE.md` | ✓ generated (9 entries, chronological) |
+| `INDEX.md` | ✓ generated (9 topics across 6 categories) |
+| `politics/index.md` | ✓ generated (2 topics) |
+| `military/index.md` | ✓ generated (2 topics) |
+| `science/index.md` | ✓ generated (1 topic) |
+| `arts/index.md` | ✓ generated (2 topics) |
+| `economics/index.md` | ✓ generated (1 topic) |
+| `people/index.md` | ✓ generated (1 topic) |
+| Cross-references (`## Related`) | ✓ all 9 topic files have 3-link generated blocks |
 
 ---
 
@@ -215,3 +219,26 @@ Ran Curator subagent: researched and authored all 3 dedicated topic files with �
 ### G1-T5 — 2026-06-14 — Tick 3: growth tick (published by safety net)
 **Action**: Content/structure work published by the workflow safety net; the agent ended before publish-session.
 **Outcome**: Changes committed in this commit; titled "Tick N" so check-lifecycle counts it toward replant.
+
+---
+
+### Replant — 2026-06-14
+
+**Model**: claude-sonnet-4-6
+**Action**: Generation closed — replant routine executed; successor repo planted for "the year 1777"
+
+**Generation summary**:
+- 5 growth ticks recorded (G1-T1 through G1-T5, including 2 safety-net entries)
+- 9 README knowledge-table rows (all linked to dedicated topic files)
+- 9 dedicated topic files across all 6 categories (politics ×2, military ×2, science ×1, arts ×2, economics ×1, people ×1)
+- Full structural layer generated: TIMELINE.md, INDEX.md, 6 category index pages, cross-references in all 9 topic files
+
+**Finalization steps**:
+- Ran build-structure: all artifacts verified current (no changes needed)
+- Compacted ROADMAP: Now/Backlog items moved to Ideas with "deferred at replant" note
+- Ran sync-seed: Section 4 updated (6→9 dedicated files); Section 5 updated (all artifacts now ✓ generated)
+- Set `lifecycle.yml` `state.status: mature` and lineage entry `status: mature`
+- Added Status line to README.md naming successor year-of-ai/1777
+
+**Successor**: "the year 1777" → `year-of-ai/1777`
+**Lineage**: 2 of 7 members toward consolidation (this repo + successor)

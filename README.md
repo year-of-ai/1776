@@ -1,5 +1,7 @@
 # The Year 1776
 
+> **Status**: This repository is **mature** (generation closed 2026-06-14). Its successor covering the year 1777 is at [year-of-ai/1777](https://github.com/year-of-ai/1777) *(link will be live once the successor is created)*.
+
 A self-growing, encyclopedic knowledge base covering the events, people, works, and discoveries of **1776** — the year of American independence, revolutionary war, and transformative ideas in economics and philosophy.
 
 ## Topics

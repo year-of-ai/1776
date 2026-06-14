@@ -3,17 +3,11 @@
 
 ## Now
 
-_(items complete — see Done below)_
+_(generation closed — this repo is mature)_
 
 ## Backlog
 
-- [ ] **George Washington profile** `content` — `people/george-washington.md` — role in 1776 military campaigns and Continental Army command. _(people)_
-- [ ] **Adam Smith profile** `content` — `people/adam-smith.md` — life, intellectual context, and legacy of *The Wealth of Nations*. _(people)_
-- [ ] **Continental Army formation and structure** `content` — `military/continental-army.md` — organization, challenges, and 1776 campaigns. _(military)_
-- [ ] **Category index pages** `structure` — Generate `politics/index.md`, `military/index.md`, `science/index.md`, `arts/index.md`, `economics/index.md`, `people/index.md`. _(build-structure)_
-- [ ] **TIMELINE.md** `structure` — Chronological index of all 1776 events. _(build-structure)_
-- [ ] **INDEX.md** `structure` — Master topic index / TOC. _(build-structure)_
-- [ ] **Evolve audit** `meta` — Run `/evolve` to review and improve the `.github/` customization layer. _(after ~5 ticks)_
+_(empty — compacted at replant 2026-06-14)_
 
 ## Done
 
@@ -30,6 +24,16 @@ _(items complete — see Done below)_
 
 ## Ideas
 
+_(items deferred at replant 2026-06-14)_
+- George Washington profile (`people`) — role in 1776 military campaigns and Continental Army command
+- Adam Smith profile (`people`) — life, intellectual context, and legacy of *The Wealth of Nations*
+- Continental Army formation and structure (`military`) — organization, challenges, and 1776 campaigns
+- Category index pages (`structure`) — already built; kept as reminder for future expansion
+- TIMELINE.md (`structure`) — already built; kept as reminder for future expansion
+- INDEX.md (`structure`) — already built; kept as reminder for future expansion
+- Evolve audit (`meta`) — run `/evolve` to review the `.github/` customization layer
+
+_(pre-existing ideas)_
 - Hessian mercenaries in the Revolutionary War (`military`)
 - Benjamin Franklin's role in 1776 (`people`)
 - France's covert support for the American Revolution (`politics`)
