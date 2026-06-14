@@ -42,7 +42,7 @@ Invoke the **plan-roadmap** skill to score and select the next 1–3 items (tagg
 ### 3 — Execute
 For each selected item:
 - `content` → invoke the **Curator** subagent with the topic and category.
-- `structure` → invoke the **build-structure** skill (regenerate indices, TIMELINE, TOC, cross-refs).
+- `structure` → invoke the **build-structure** skill (regenerate indices, TIMELINE, TOC, cross-refs). **build-structure completion is NOT tick completion — always proceed to Steps 4–6 after it returns.**
 - `meta` (periodic self-improvement) → run the **evolve** prompt to improve the customization layer.
 Mark each item done as its subagent/skill confirms success; skip and note any that can't be confirmed in-scope.
 
@@ -57,7 +57,7 @@ table rows, all links resolve, dedicated files have required frontmatter.
 - Re-run **check-lifecycle** to reconcile `generation_ticks` in `lifecycle.yml` with the log.
 
 ### 6 — Publish
-Invoke the **publish-session** skill: commit and push to `main`.
+**MANDATORY TERMINAL — the tick is not complete until this step executes.** Invoke the **publish-session** skill: commit and push to `main`. This is required regardless of how comprehensive the prior steps' output appears. A tick that ends after build-structure, sync-seed, or encode-seed does not advance the §8 tick counter the lifecycle gate reads. Prioritize this step even when context is growing large.
 
 ## Output Format
 
