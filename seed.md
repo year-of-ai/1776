@@ -87,21 +87,24 @@ This repository is simultaneously:
 
 | Category | Slug | README rows | Dedicated files |
 |---|---|---|---|
-| Political Events | politics | 3 | 1 |
+| Political Events | politics | 2 | 1 |
 | Military Events | military | 2 | 1 |
-| Science & Discovery | science | 1 | 0 |
-| Arts & Culture | arts | 2 | 0 |
+| Science & Discovery | science | 1 | 1 |
+| Arts & Culture | arts | 2 | 1 |
 | Economics & Trade | economics | 1 | 1 |
-| Key Figures | people | 0 | 0 |
+| Key Figures | people | 1 | 1 |
 
 **Total README rows**: 9
-**Total dedicated topic files**: 3
+**Total dedicated topic files**: 6
 
 ### Dedicated topic files
 
-- `politics/declaration-of-independence.md` — Declaration of Independence (1776-07-04)
-- `military/battle-of-trenton.md` — Battle of Trenton (1776-12-26)
+- `arts/decline-and-fall-roman-empire.md` — Edward Gibbon's Decline and Fall of the Roman Empire Vol. 1 (1776-02-17)
 - `economics/wealth-of-nations.md` — The Wealth of Nations (1776-03-09)
+- `military/battle-of-trenton.md` — Battle of Trenton (1776-12-26)
+- `people/thomas-paine.md` — Thomas Paine / Common Sense (1776-01-10)
+- `politics/declaration-of-independence.md` — Declaration of Independence (1776-07-04)
+- `science/captain-cook-third-voyage.md` — Captain Cook's Third Voyage (1776-07-12)
 
 ---
 
@@ -184,3 +187,23 @@ Ran Curator subagent: researched and authored all 3 dedicated topic files with �
 ### G1-T2 — 2026-06-14 — Growth tick (safety net)
 **Action**: Tick published by the workflow safety net; the agent ended before publish-session.
 **Outcome**: Content/structure committed in this commit; §8 entry added so the lifecycle counter advances.
+
+---
+
+### G1-T3 — 2026-06-14 — Tick 2: Thomas Paine, Captain Cook, Gibbon
+
+**Model**: claude-sonnet-4-6
+**Action**: Growth tick 2 — expanded coverage into people, science, and arts categories
+
+Ran check-lifecycle: decided `grow` (generation_ticks=1/3, lineage=1/7)
+Ran plan-roadmap: selected 3 content items targeting coverage gaps — people (0 dedicated files), science (0 dedicated files), arts (0 dedicated files); ROADMAP Now set; 3 items moved to Done
+Ran Curator subagent: researched and authored all 3 dedicated topic files with ≥4 authoritative sources each; updated README.md table links
+
+- Created `people/thomas-paine.md`: Thomas Paine biography — birth, emigration, Common Sense (January 10, 1776), pamphlet distribution (75,000–500,000 copies), influence on Congress and the Declaration, American Crisis series December 1776
+- Created `science/captain-cook-third-voyage.md`: Cook's third voyage — departure Plymouth July 12, 1776 aboard HMS Resolution and Discovery; dual objectives (return Omai, Northwest Passage); crew including Bligh, Webber, Bayly; K1 chronometer; route and scientific work
+- Created `arts/decline-and-fall-roman-empire.md`: Gibbon's Vol. 1 — published February 17, 1776 by Strahan and Cadell; civic-virtue thesis; chapters 15–16 Christianity controversy; David Hume's praise; Gibbon's Enlightenment methodology
+- Updated `README.md`: 3 more knowledge-table rows linked (6 of 9 rows now link to dedicated files)
+- Updated `ROADMAP.md`: 3 items moved to Done; Now cleared; Backlog reordered
+- Updated `seed.md` §1–7: Content Inventory — dedicated files 3→6; all 6 categories now have ≥1 dedicated file
+
+**Outcome**: 3 dedicated topic files created; 9 README rows (6 linked); total dedicated files: 6; generation_ticks: 2
