@@ -27,3 +27,11 @@ The Battle of Trenton was Washington's first major offensive victory of the Revo
 - [Battle of Trenton — Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Trenton)
 - [Battles of Trenton and Princeton — Britannica](https://www.britannica.com/event/Battles-of-Trenton-and-Princeton)
 - [Battle of Trenton — George Washington's Mount Vernon](https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/battle-of-trenton)
+
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Battle of Long Island](battle-of-long-island.md) — The August 1776 defeat that preceded Trenton and threatened the Continental Army's survival.
+- [Thomas Paine](../people/thomas-paine.md) — Paine's *American Crisis* ("These are the times that try men's souls") was read aloud to troops before the crossing.
+- [Declaration of Independence](../politics/declaration-of-independence.md) — Trenton was fought in defense of the independence declared six months earlier.
+<!-- END GENERATED: related -->

@@ -207,3 +207,7 @@ Ran Curator subagent: researched and authored all 3 dedicated topic files with �
 - Updated `seed.md` §1–7: Content Inventory — dedicated files 3→6; all 6 categories now have ≥1 dedicated file
 
 **Outcome**: 3 dedicated topic files created; 9 README rows (6 linked); total dedicated files: 6; generation_ticks: 2
+
+### G1-T4 — 2026-06-14 — Growth tick (safety net)
+**Action**: Tick published by the workflow safety net; the agent ended before publish-session.
+**Outcome**: Content/structure committed in this commit; §8 entry added so the lifecycle counter advances.

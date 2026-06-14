@@ -29,3 +29,11 @@ The first volume of *The Decline and Fall*, published in February 1776, inaugura
 - [Gibbon's Decline and Fall of the Roman Empire — World History Encyclopedia](https://www.worldhistory.org/article/2153/gibbons-decline--fall-of-the-roman-empire/)
 - [Edward Gibbon, Enlightenment historian of religion — Oxford University Press Blog](https://blog.oup.com/2017/05/edward-gibbon-enlightenment-historian-religion/)
 - [History of the Decline and Fall of the Roman Empire — Project Gutenberg (primary text)](https://www.gutenberg.org/ebooks/890)
+
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Mozart in 1776](mozart-1776.md) — Mozart's prolific 1776 output in Salzburg was another expression of Enlightenment cultural vitality in the same year.
+- [The Wealth of Nations](../economics/wealth-of-nations.md) — Smith's work appeared the same year and shared Gibbon's Enlightenment methodology of empirical inquiry over received authority.
+- [Virginia Declaration of Rights](../politics/virginia-declaration-of-rights.md) — Mason's declaration invoked the same civic-virtue principles that Gibbon traced through the history of Rome.
+<!-- END GENERATED: related -->

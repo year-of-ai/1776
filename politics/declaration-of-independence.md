@@ -28,3 +28,11 @@ The Declaration of Independence established the philosophical and legal foundati
 - [The Declaration of Independence, 1776 — Office of the Historian, U.S. Department of State](https://history.state.gov/milestones/1776-1783/declaration)
 - [The Committee of Five — Monticello / Thomas Jefferson Foundation](https://www.monticello.org/the-declaration-of-independence/the-committee-of-five)
 - [June 7, 1776 to January 18, 1777 — Library of Congress Exhibit](https://www.loc.gov/exhibits/declara/declara2.html)
+
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Virginia Declaration of Rights](virginia-declaration-of-rights.md) — George Mason's June 12, 1776 declaration that directly influenced Jefferson's drafting of the Declaration.
+- [Thomas Paine](../people/thomas-paine.md) — *Common Sense* (January 1776) prepared public opinion for independence and the Declaration.
+- [The Wealth of Nations](../economics/wealth-of-nations.md) — Published the same year; shared the Enlightenment intellectual milieu shaping the Declaration's philosophy.
+<!-- END GENERATED: related -->

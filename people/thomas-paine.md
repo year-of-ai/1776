@@ -29,3 +29,11 @@ Thomas Paine's *Common Sense* was the most widely circulated pamphlet of the Ame
 - [Thomas Paine — Britannica](https://www.britannica.com/biography/Thomas-Paine)
 - [Thomas Paine publishes "Common Sense" — History.com](https://www.history.com/this-day-in-history/january-10/thomas-paine-publishes-common-sense)
 - [Common Sense — ushistory.org (Independence Hall Association)](https://www.ushistory.org/paine/commonsense/)
+
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Declaration of Independence](../politics/declaration-of-independence.md) — *Common Sense* directly prepared public and congressional opinion for the Declaration adopted on July 4, 1776.
+- [Battle of Trenton](../military/battle-of-trenton.md) — Paine's *American Crisis* was read to Washington's troops before the December 26 crossing and attack.
+- [Virginia Declaration of Rights](../politics/virginia-declaration-of-rights.md) — Mason's June 12 declaration articulated the same natural-rights framework as *Common Sense*.
+<!-- END GENERATED: related -->

@@ -1,0 +1,12 @@
+# Military Events
+
+Topics covering battles and campaigns of the American Revolutionary War and beyond in 1776.
+
+<!-- BEGIN GENERATED: category-index — maintained by build-structure; do not edit by hand -->
+
+| Topic | Description |
+|---|---|
+| [Battle of Long Island](battle-of-long-island.md) | The largest engagement of the American Revolutionary War by troop numbers, fought August 27, 1776 in Brooklyn, New York; ended in Washington's masterful nighttime evacuation across the East River. |
+| [Battle of Trenton](battle-of-trenton.md) | Washington's surprise crossing of the Delaware River on December 26, 1776 resulted in the capture of a Hessian garrison, reversing Continental Army fortunes. |
+
+<!-- END GENERATED: category-index -->

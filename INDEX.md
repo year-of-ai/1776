@@ -1,0 +1,52 @@
+# Master Index — The Year 1776
+
+A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) for a chronological view.
+
+<!-- BEGIN GENERATED: master-index — maintained by build-structure; do not edit by hand -->
+
+## Political Events
+→ [Category index](politics/index.md)
+
+| Topic | Date | File |
+|---|---|---|
+| Virginia Declaration of Rights | 1776-06-12 | [politics/virginia-declaration-of-rights.md](politics/virginia-declaration-of-rights.md) |
+| Declaration of Independence | 1776-07-04 | [politics/declaration-of-independence.md](politics/declaration-of-independence.md) |
+
+## Military Events
+→ [Category index](military/index.md)
+
+| Topic | Date | File |
+|---|---|---|
+| Battle of Long Island | 1776-08-27 | [military/battle-of-long-island.md](military/battle-of-long-island.md) |
+| Battle of Trenton | 1776-12-26 | [military/battle-of-trenton.md](military/battle-of-trenton.md) |
+
+## Science & Discovery
+→ [Category index](science/index.md)
+
+| Topic | Date | File |
+|---|---|---|
+| Captain Cook's Third Voyage | 1776-07-12 | [science/captain-cook-third-voyage.md](science/captain-cook-third-voyage.md) |
+
+## Arts & Culture
+→ [Category index](arts/index.md)
+
+| Topic | Date | File |
+|---|---|---|
+| Mozart in 1776 | 1776-01-01 | [arts/mozart-1776.md](arts/mozart-1776.md) |
+| Edward Gibbon's Decline and Fall (Vol. 1) | 1776-02-17 | [arts/decline-and-fall-roman-empire.md](arts/decline-and-fall-roman-empire.md) |
+
+## Economics & Trade
+→ [Category index](economics/index.md)
+
+| Topic | Date | File |
+|---|---|---|
+| The Wealth of Nations | 1776-03-09 | [economics/wealth-of-nations.md](economics/wealth-of-nations.md) |
+
+## Key Figures
+→ [Category index](people/index.md)
+
+| Topic | Date | File |
+|---|---|---|
+| Thomas Paine | 1776-01-10 | [people/thomas-paine.md](people/thomas-paine.md) |
+
+<!-- END GENERATED: master-index -->

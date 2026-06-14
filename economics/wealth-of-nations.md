@@ -27,3 +27,11 @@ The book influenced contemporaries including American founders Thomas Jefferson 
 - [The Wealth of Nations — University of Glasgow Adam Smith 300](https://www.gla.ac.uk/explore/adamsmith300/lifeworkandlegacy/keyworks/wealthofnations)
 - [Rae on the Publication of the Wealth of Nations (1776) — Online Library of Liberty](https://oll.libertyfund.org/pages/rae-on-the-publication-of-the-wealth-of-nations-1776)
 - [Adam Smith on the Natural Ordering Tendency of Free Markets — Online Library of Liberty](https://oll.libertyfund.org/quotes/adam-smith-on-the-natural-ordering-tendency-of-free-markets-or-what-he-called-the-invisible-hand-1776)
+
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [Declaration of Independence](../politics/declaration-of-independence.md) — Adopted the same year; Jefferson and other founders read Smith, and the critique of mercantilist British policy aligned with colonial grievances.
+- [Virginia Declaration of Rights](../politics/virginia-declaration-of-rights.md) — Mason's declaration of individual rights and Smith's argument for free markets shared the Enlightenment premise of natural liberty.
+- [Thomas Paine](../people/thomas-paine.md) — Paine's *Common Sense* (January 1776) also targeted the mercantilist assumptions underlying British colonial policy.
+<!-- END GENERATED: related -->

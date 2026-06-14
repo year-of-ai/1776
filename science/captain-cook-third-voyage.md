@@ -29,3 +29,11 @@ Cook's third voyage extended European geographic and scientific knowledge across
 - [James Cook's Third Voyage to the Pacific Ocean — Royal Geographical Society of South Australia](https://rgssa.org.au/heritage/treasures/james-cooks-third-voyage-to-the-pacific-ocean)
 - [Astronomy on Cook's Third Voyage: Queen Charlotte Sound, 1777 — ResearchGate](https://www.researchgate.net/publication/300132969_Astronomy_on_Cook%27s_Third_Voyage_Queen_Charlotte_Sound_1777)
 - [Captain James Cook and the Search for the Northwest Passage — Colonial Williamsburg Foundation](https://research.colonialwilliamsburg.org/Foundation/journal/Winter09/cook.cfm)
+
+<!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
+## Related
+
+- [The Wealth of Nations](../economics/wealth-of-nations.md) — Published the same year; both Cook's voyage and Smith's work reflected the expansive empirical ambition of the Enlightenment.
+- [Edward Gibbon's Decline and Fall (Vol. 1)](../arts/decline-and-fall-roman-empire.md) — Gibbon's first volume also appeared in 1776, part of a remarkable year for Enlightenment inquiry.
+- [Declaration of Independence](../politics/declaration-of-independence.md) — Cook's departure from Plymouth came just weeks before the Declaration transformed the political world he was sailing away from.
+<!-- END GENERATED: related -->
