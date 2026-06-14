@@ -3,16 +3,14 @@
 
 ## Now
 
-- [ ] **Declaration of Independence deep-dive** `content` — Create dedicated file `politics/declaration-of-independence.md` with full sourced article; link from README table. _(politics — highest-significance topic, 0 dedicated files)_
-- [ ] **Battle of Trenton deep-dive** `content` — Create dedicated file `military/battle-of-trenton.md` with sourced article on Washington's December 1776 crossing. _(military — pivotal turning point)_
-- [ ] **The Wealth of Nations deep-dive** `content` — Create dedicated file `economics/wealth-of-nations.md` on Adam Smith's 1776 publication. _(economics — foundational intellectual milestone)_
+_(tick 1 complete — see Done)_
 
 ## Backlog
 
-- [ ] **Thomas Paine profile** `content` — Dedicated file `people/thomas-paine.md` covering Paine's life and 1776 impact. _(people)_
-- [ ] **Battle of Long Island** `content` — `military/battle-of-long-island.md` — largest battle of the Revolution. _(military)_
+- [ ] **Thomas Paine profile** `content` — Dedicated file `people/thomas-paine.md` covering Paine's life and 1776 impact. _(people — 0 rows, highest coverage gap)_
+- [ ] **Captain Cook's Third Voyage** `content` — `science/captain-cook-third-voyage.md` — 1776 departure and Pacific exploration. _(science — 1 row, 0 files)_
 - [ ] **Virginia Declaration of Rights** `content` — `politics/virginia-declaration-of-rights.md` — precursor to Bill of Rights. _(politics)_
-- [ ] **Captain Cook's Third Voyage** `content` — `science/captain-cook-third-voyage.md` — 1776 departure and Pacific exploration. _(science)_
+- [ ] **Battle of Long Island** `content` — `military/battle-of-long-island.md` — largest battle of the Revolution. _(military)_
 - [ ] **Edward Gibbon's Decline and Fall** `content` — `arts/decline-and-fall-roman-empire.md` — landmark 1776 historical work. _(arts)_
 - [ ] **George Washington profile** `content` — `people/george-washington.md` — role in 1776 military campaigns. _(people)_
 - [ ] **Continental Army formation and structure** `content` — `military/continental-army.md`. _(military)_
@@ -25,6 +23,9 @@
 
 ## Done
 
+- [x] **Declaration of Independence deep-dive** `content` — Created `politics/declaration-of-independence.md`; README row linked. _(2026-06-14)_
+- [x] **The Wealth of Nations deep-dive** `content` — Created `economics/wealth-of-nations.md`; README row linked. _(2026-06-14)_
+- [x] **Battle of Trenton deep-dive** `content` — Created `military/battle-of-trenton.md`; README row linked. _(2026-06-14)_
 - [x] **Genesis** `meta` — Bootstrapped repo for "the year 1776"; created seed.md, README.md, ROADMAP.md. _(2026-06-13)_
 
 ## Ideas

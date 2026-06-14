@@ -87,18 +87,21 @@ This repository is simultaneously:
 
 | Category | Slug | README rows | Dedicated files |
 |---|---|---|---|
-| Political Events | politics | 3 | 0 |
-| Military Events | military | 2 | 0 |
+| Political Events | politics | 3 | 1 |
+| Military Events | military | 2 | 1 |
 | Science & Discovery | science | 1 | 0 |
 | Arts & Culture | arts | 2 | 0 |
-| Economics & Trade | economics | 1 | 0 |
+| Economics & Trade | economics | 1 | 1 |
 | Key Figures | people | 0 | 0 |
 
 **Total README rows**: 9
-**Total dedicated topic files**: 0
+**Total dedicated topic files**: 3
 
 ### Dedicated topic files
-_(none yet)_
+
+- `politics/declaration-of-independence.md` — Declaration of Independence (1776-07-04)
+- `military/battle-of-trenton.md` — Battle of Trenton (1776-12-26)
+- `economics/wealth-of-nations.md` — The Wealth of Nations (1776-03-09)
 
 ---
 
@@ -157,3 +160,23 @@ To retarget to a new concept: change `concept.subject` and `concept.taxonomy`, d
 **Taxonomy**: politics, military, science, arts, economics, people (6 categories)
 **Files created**: seed.md, README.md, ROADMAP.md
 **Outcome**: Framework active; initial knowledge table seeded with 9 source-verified rows; ready for `/grow`
+
+---
+
+### G1-T1 — 2026-06-14 — Tick 1: Declaration, Wealth of Nations, Battle of Trenton
+
+**Model**: claude-sonnet-4-6
+**Action**: Growth tick 1 — first content expansion of the 1776 knowledge base
+
+Ran check-lifecycle: decided `grow` (generation_ticks=0/3, lineage=1/7)
+Ran plan-roadmap: selected 3 content items from Now (Declaration of Independence, Wealth of Nations, Battle of Trenton); reordered Backlog by coverage-gap priority
+Ran Curator subagent: researched and authored all 3 dedicated topic files with ≥2 authoritative sources each; updated README.md table links
+
+- Created `politics/declaration-of-independence.md`: Declaration of Independence (July 4, 1776) — Committee of Five, adoption by Congress, natural-rights philosophy, global influence
+- Created `economics/wealth-of-nations.md`: The Wealth of Nations (March 9, 1776) — Adam Smith's division of labor, invisible hand, critique of mercantilism, founding text of classical economics
+- Created `military/battle-of-trenton.md`: Battle of Trenton (December 26, 1776) — Washington's Delaware crossing, Hessian garrison defeat, turning-point significance
+- Updated `README.md`: 3 knowledge-table rows now link to dedicated files
+- Updated `ROADMAP.md`: 3 items moved to Done; Backlog reordered by coverage gap
+- Updated `seed.md` §4: Content Inventory — dedicated files 0→3; politics/military/economics each show 1 dedicated file
+
+**Outcome**: 3 dedicated topic files created; 9 README rows (3 linked); total dedicated files: 3; generation_ticks: 1
