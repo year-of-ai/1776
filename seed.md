@@ -242,3 +242,23 @@ Ran Curator subagent: researched and authored all 3 dedicated topic files with �
 
 **Successor**: "the year 1777" → `year-of-ai/1777`
 **Lineage**: 2 of 7 members toward consolidation (this repo + successor)
+
+### Distillation — 2026-06-15
+
+**Model**: claude-opus-4-8
+**Action**: Lineage meta-review (frontier model) at `distill_at_members: 3`, run in the **canonical driver** (`lineage[0]` = year-of-ai/1776). Cloned and studied all three G1 members — 1776, 1777, 1778 — via `LIFECYCLE_PAT`: seeds, §8 Evolution Logs, lifecycle state, content shape, framework layer, and the merged-PR/learnings ledgers.
+
+**Findings** (sharpest first):
+- **Distill self-fired in a non-driver member.** The `grow.yml` phase resolver set `phase=distill` from `members≥threshold && distilled_at==null` *without checking whether the repo is the canonical driver*. Result: 1778 (newest member) distilled itself — writing `seed-package/` and setting its own `distilled_at` — while the canonical driver (1776), the deterministic forward-pollination + ship-from source, was left un-distilled and package-less. This is the divergence pattern recurring inside the distill step itself.
+- The substantive review + framework union-reconcile from that prior run had already merged into this driver as PR #4 (`distill union reconcile`): `architect.agent.md` (Shepherd Mode + structure-only sync-skip), `check-lifecycle` (mature fast-path), `sync-seed` (Step 0 early-exit), and the `replant` root-cause fix (plant framework from `lineage[0]`, not the replanting member's drifted tree). Verified present here — not re-derived.
+- The dominant historical content friction (safety-net ticks firing before `publish-session`; empty counter-advancing ticks; no-op `sync-seed`/`check-lifecycle` rescans) was already mined and embedded by `/learn` (1776 L001–L008, 1777 L001–L003). Confirmed, not re-derived.
+- Content quality is sound and even across members (every fact ≥2 sources, one category per file, dedicated files at 4+ facts); per-member volume varies with generation length, not with quality.
+
+**Improvements applied** (live framework, fan out via pollinate):
+- **Root-cause fix** in `grow.yml`: the phase resolver now extracts the canonical driver (`lineage[0].repo`) and gates `phase=distill` on `is_driver` (`$GITHUB_REPOSITORY == driver_repo`). Non-driver members can no longer self-distill; falls back to prior behavior only when the driver cannot be parsed.
+- Reinforced `distill.prompt.md` preconditions: explicitly "run only in the canonical driver (`lineage[0]`)"; a non-driver run must stop.
+- `MANIFEST.md` `grow.yml` row notes the driver-only distill gating.
+
+**Seed package**: created `seed-package/` in this canonical driver (4 files — `README.md` with org/secrets/launch steps + the "the year 1776" worked example, `seed.template.md`, `lifecycle.template.yml`, `MANIFEST.md`). This is now the authoritative ship-from copy.
+
+**State**: `lifecycle.yml state.distilled_at` set to 2026-06-15.

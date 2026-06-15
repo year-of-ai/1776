@@ -133,15 +133,26 @@ jobs:
           threshold=$(grep -E '^[[:space:]]*distill_at_members:' lifecycle.yml | head -1 | grep -oE '[0-9]+' || true)
           members=$(grep -cE '^[[:space:]]*- subject:' lifecycle.yml || true)
           pending=$(grep -E '^[[:space:]]*distilled_at:' lifecycle.yml | head -1 | grep -c null || true)
+          # The canonical driver is lineage[0] — the first repo: line under `lineage:`.
+          # Distill is a once-per-lineage meta-review that must run ONLY in the driver
+          # (it ships the portable seed-package and is the deterministic forward-pollination
+          # source). Without this guard every member whose own lifecycle.yml shows
+          # members>=threshold & distilled_at==null self-distills, writing the package into
+          # the wrong repo and leaving the driver un-distilled.
+          driver_repo=$(awk '/^[[:space:]]*lineage:/{f=1} f&&/repo:/{sub(/.*repo:[[:space:]]*"?/,""); sub(/"?[[:space:]]*$/,""); print; exit}' lifecycle.yml)
+          is_driver=1
+          if [ -n "$driver_repo" ] && [ -n "${GITHUB_REPOSITORY:-}" ] && [ "$driver_repo" != "$GITHUB_REPOSITORY" ]; then
+            is_driver=0
+          fi
           phase=tick
           model="${tick_model:-claude-sonnet-4-6}"
-          if [ "${members:-0}" -ge "${threshold:-999}" ] && [ "${pending:-0}" -eq 1 ]; then
+          if [ "${members:-0}" -ge "${threshold:-999}" ] && [ "${pending:-0}" -eq 1 ] && [ "$is_driver" -eq 1 ]; then
             phase=distill
             model="${distill_model:-claude-fable-5}"
           fi
           echo "phase=$phase" >> "$GITHUB_OUTPUT"
           echo "model=$model" >> "$GITHUB_OUTPUT"
-          echo "Phase: $phase — model: $model (members=${members:-0}, distill threshold=${threshold:-unset})"
+          echo "Phase: $phase — model: $model (members=${members:-0}, distill threshold=${threshold:-unset}, driver=${driver_repo:-unset}, is_driver=$is_driver)"
 
       # Deterministic lineage maintenance — runs BEFORE the agent so the model is
       # spent only on the content tick, not on mechanical git plumbing. Telemetry
