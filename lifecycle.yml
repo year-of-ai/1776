@@ -18,10 +18,10 @@ lifecycle:
       layout: "One top-level directory per lineage member, named by its subject slug (e.g. 1776/, 1777/)."
       deepen_granularity: "month"
     models:
-      tick: "claude-sonnet-4-6"
-      learn: "claude-sonnet-4-6"
-      expand: "claude-sonnet-4-6"
-      distill: "claude-opus-4-8"
+      generate: "claude-haiku-4-5"   # tier 1: draft new content
+      expand:   "claude-sonnet-4-6"  # tier 2: deepen the drafts
+      enhance:  "claude-opus-4-8"    # tier 3: polish, build, publish
+      distill:  "claude-opus-4-8"    # one-time lineage meta-review
     distill_at_members: 3
 
   state:
