@@ -28,6 +28,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Captain Cook's Third Voyage departs](science/captain-cook-third-voyage.md) | HMS Resolution and HMS Discovery left Plymouth in July 1776 on Cook's final Pacific expedition. |
 | [Virginia Declaration of Rights](politics/virginia-declaration-of-rights.md) | George Mason's Virginia Declaration of Rights, adopted June 12, 1776, directly influenced the U.S. Bill of Rights. |
 | [Mozart composes *Serenata notturna*](arts/mozart-1776.md) | Wolfgang Amadeus Mozart composed the Serenata notturna (K. 239) in January 1776 in Salzburg. |
+| [John Adams at the Continental Congress](people/john-adams-1776.md) | Adams was a chief advocate for independence in the Second Continental Congress, organizing the Committee of Five and championing the Declaration's adoption on July 4. |
+| [The British Empire in 1776: Global Reach and Colonies](politics/british-empire-1776.md) | Britain controlled vast territories across North America, the Caribbean, Asia, and Africa, enforcing strict policies that precipitated the American Revolution and reshaped imperial strategy. |
+| [Buffon's Natural History: Revolutionizing Scientific Classification](science/buffon-natural-history.md) | Buffon continued publishing his monumental *Histoire naturelle*, advancing natural history through biogeography, earth science, and speculative theories on species transformation during the Enlightenment. |
 
 ---
 

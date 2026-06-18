@@ -9,6 +9,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 
 | Topic | Date | File |
 |---|---|---|
+| The British Empire in 1776 | 1776-01-01 | [politics/british-empire-1776.md](politics/british-empire-1776.md) |
 | Virginia Declaration of Rights | 1776-06-12 | [politics/virginia-declaration-of-rights.md](politics/virginia-declaration-of-rights.md) |
 | Declaration of Independence | 1776-07-04 | [politics/declaration-of-independence.md](politics/declaration-of-independence.md) |
 
@@ -25,6 +26,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 
 | Topic | Date | File |
 |---|---|---|
+| Buffon's Natural History | 1776-01-01 | [science/buffon-natural-history.md](science/buffon-natural-history.md) |
 | Captain Cook's Third Voyage | 1776-07-12 | [science/captain-cook-third-voyage.md](science/captain-cook-third-voyage.md) |
 
 ## Arts & Culture
@@ -48,5 +50,6 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Topic | Date | File |
 |---|---|---|
 | Thomas Paine | 1776-01-10 | [people/thomas-paine.md](people/thomas-paine.md) |
+| John Adams & the 1776 Continental Congress | 1776-07-04 | [people/john-adams-1776.md](people/john-adams-1776.md) |
 
 <!-- END GENERATED: master-index -->
