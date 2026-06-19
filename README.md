@@ -31,6 +31,8 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [John Adams at the Continental Congress](people/john-adams-1776.md) | Adams was a chief advocate for independence in the Second Continental Congress, organizing the Committee of Five and championing the Declaration's adoption on July 4. |
 | [The British Empire in 1776: Global Reach and Colonies](politics/british-empire-1776.md) | Britain controlled vast territories across North America, the Caribbean, Asia, and Africa, enforcing strict policies that precipitated the American Revolution and reshaped imperial strategy. |
 | [Buffon's Natural History: Revolutionizing Scientific Classification](science/buffon-natural-history.md) | Buffon continued publishing his monumental *Histoire naturelle*, advancing natural history through biogeography, earth science, and speculative theories on species transformation during the Enlightenment. |
+| [Benjamin Franklin & 1776 Diplomacy](people/benjamin-franklin-1776.md) | Franklin served on the Committee of Five, led the Canada mission, and sailed to France in October 1776 to secure the alliance that ensured American independence. |
+| [American Fiscal Crisis & Continental Congress Finance](economics/continental-congress-finance-1776.md) | Lacking taxing power, Congress issued $25 million in paper currency in 1776 and secured covert French loans, establishing the fiscal crisis that shaped the U.S. Constitution. |
 
 ---
 

@@ -42,6 +42,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 
 | Topic | Date | File |
 |---|---|---|
+| American Fiscal Crisis & Continental Congress Finance | 1776-01-01 | [economics/continental-congress-finance-1776.md](economics/continental-congress-finance-1776.md) |
 | The Wealth of Nations | 1776-03-09 | [economics/wealth-of-nations.md](economics/wealth-of-nations.md) |
 
 ## Key Figures
@@ -51,5 +52,6 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 |---|---|---|
 | Thomas Paine | 1776-01-10 | [people/thomas-paine.md](people/thomas-paine.md) |
 | John Adams & the 1776 Continental Congress | 1776-07-04 | [people/john-adams-1776.md](people/john-adams-1776.md) |
+| Benjamin Franklin & 1776 Diplomacy | 1776-10-26 | [people/benjamin-franklin-1776.md](people/benjamin-franklin-1776.md) |
 
 <!-- END GENERATED: master-index -->

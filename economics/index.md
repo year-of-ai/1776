@@ -6,6 +6,7 @@ Topics covering economic ideas and commercial developments of 1776.
 
 | Topic | Description |
 |---|---|
+| [American Fiscal Crisis & Continental Congress Finance](continental-congress-finance-1776.md) | The Continental Congress's improvised war finance — paper currency emission, domestic loan offices, and covert French and Spanish subsidies — which produced ruinous inflation and shaped the U.S. Constitution's fiscal powers. |
 | [The Wealth of Nations](wealth-of-nations.md) | Adam Smith's foundational work of modern economics, published March 9, 1776, introducing division of labor, free markets, and a comprehensive critique of mercantilism. |
 
 <!-- END GENERATED: category-index -->
