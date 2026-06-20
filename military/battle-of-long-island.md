@@ -70,6 +70,7 @@ The Battle of Long Island demonstrated both the vulnerability of Washington's Co
 ## Related
 
 - [Battle of Trenton](battle-of-trenton.md) — Washington's December 1776 victory reversed the momentum lost at Long Island.
+- [Battle of Harlem Heights](battle-of-harlem-heights.md) — Three weeks after Long Island, Washington's first tactical victory began the army's recovery on Manhattan.
 - [Benjamin Franklin & 1776 Diplomacy](../people/benjamin-franklin-1776.md) — The British victory prompted the Staten Island peace conference (September 11, 1776) that Franklin attended before sailing for France.
 - [American Fiscal Crisis & Continental Congress Finance](../economics/continental-congress-finance-1776.md) — The New York campaign's losses forced the emergency currency emissions of November–December 1776.
 - [Thomas Paine](../people/thomas-paine.md) — Paine's *American Crisis* (December 1776) was written in direct response to the defeats following Long Island.

@@ -33,6 +33,10 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Buffon's Natural History: Revolutionizing Scientific Classification](science/buffon-natural-history.md) | Buffon continued publishing his monumental *Histoire naturelle*, advancing natural history through biogeography, earth science, and speculative theories on species transformation during the Enlightenment. |
 | [Benjamin Franklin & 1776 Diplomacy](people/benjamin-franklin-1776.md) | Franklin served on the Committee of Five, led the Canada mission, and sailed to France in October 1776 to secure the alliance that ensured American independence. |
 | [American Fiscal Crisis & Continental Congress Finance](economics/continental-congress-finance-1776.md) | Lacking taxing power, Congress issued $25 million in paper currency in 1776 and secured covert French loans, establishing the fiscal crisis that shaped the U.S. Constitution. |
+| [James Watt's Steam Engine](economics/james-watt-steam-engine.md) | Watt's separate-condenser engine entered commercial use in 1776, freeing factories from water power and propelling the Industrial Revolution. |
+| [Battle of Harlem Heights](military/battle-of-harlem-heights.md) | On September 16, 1776, Washington won his first tactical victory of the Revolutionary War, reviving Continental Army morale after Long Island. |
+| [David Hume's Death and Philosophical Legacy](science/david-hume-1776.md) | The Scottish Enlightenment philosopher died August 25, 1776, leaving an empiricist legacy that reshaped Western thought from Kant onward. |
+| [Haydn's Autobiographical Sketch of 1776](arts/haydn-1776-autobiographical-sketch.md) | At the height of the Classical era Haydn wrote a rare self-account, documenting the autodidact's rise to one of Europe's foremost composers. |
 
 ---
 

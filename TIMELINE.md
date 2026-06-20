@@ -10,6 +10,8 @@ A chronological index of notable events, works, and discoveries of the year 1776
 | 1776-01-01 | The British Empire in 1776 — global imperial reach and the policies that precipitated the American Revolution | Political Events | [politics/british-empire-1776.md](politics/british-empire-1776.md) |
 | 1776-01-01 | Buffon continues his *Histoire naturelle*, advancing biogeography and early evolutionary thought | Science & Discovery | [science/buffon-natural-history.md](science/buffon-natural-history.md) |
 | 1776-01-01 | Continental Congress finances the war through paper currency, loan offices, and covert French aid amid a structural fiscal crisis | Economics & Trade | [economics/continental-congress-finance-1776.md](economics/continental-congress-finance-1776.md) |
+| 1776-01-01 | James Watt's separate-condenser steam engine enters commercial use, freeing industry from water power and accelerating the Industrial Revolution | Economics & Trade | [economics/james-watt-steam-engine.md](economics/james-watt-steam-engine.md) |
+| 1776-01-01 | Joseph Haydn writes his *Autobiographical Sketch*, reflecting on his rise to the foremost composer of the Classical era | Arts & Culture | [arts/haydn-1776-autobiographical-sketch.md](arts/haydn-1776-autobiographical-sketch.md) |
 | 1776-01-10 | Thomas Paine publishes *Common Sense*, galvanizing colonial support for independence | Key Figures | [people/thomas-paine.md](people/thomas-paine.md) |
 | 1776-02-17 | Edward Gibbon publishes Vol. 1 of *The Decline and Fall of the Roman Empire* | Arts & Culture | [arts/decline-and-fall-roman-empire.md](arts/decline-and-fall-roman-empire.md) |
 | 1776-03-09 | Adam Smith publishes *The Wealth of Nations*, founding classical economics | Economics & Trade | [economics/wealth-of-nations.md](economics/wealth-of-nations.md) |
@@ -17,7 +19,9 @@ A chronological index of notable events, works, and discoveries of the year 1776
 | 1776-07-04 | Declaration of Independence adopted by the Second Continental Congress | Political Events | [politics/declaration-of-independence.md](politics/declaration-of-independence.md) |
 | 1776-07-04 | John Adams champions independence in the Second Continental Congress and serves on the Committee of Five | Key Figures | [people/john-adams-1776.md](people/john-adams-1776.md) |
 | 1776-07-12 | Captain Cook's Third Voyage departs Plymouth aboard HMS Resolution and HMS Discovery | Science & Discovery | [science/captain-cook-third-voyage.md](science/captain-cook-third-voyage.md) |
+| 1776-08-25 | David Hume, philosopher of the Scottish Enlightenment, dies in Edinburgh, leaving a profound empiricist legacy | Science & Discovery | [science/david-hume-1776.md](science/david-hume-1776.md) |
 | 1776-08-27 | Battle of Long Island — largest engagement of the Revolutionary War; Washington evacuates 9,000 troops | Military Events | [military/battle-of-long-island.md](military/battle-of-long-island.md) |
+| 1776-09-16 | Battle of Harlem Heights — Washington's first tactical victory of the Revolutionary War revives Continental morale | Military Events | [military/battle-of-harlem-heights.md](military/battle-of-harlem-heights.md) |
 | 1776-10-26 | Benjamin Franklin sails from Philadelphia for France to negotiate the Treaty of Alliance | Key Figures | [people/benjamin-franklin-1776.md](people/benjamin-franklin-1776.md) |
 | 1776-12-26 | Battle of Trenton — Washington crosses the Delaware; Hessian garrison captured | Military Events | [military/battle-of-trenton.md](military/battle-of-trenton.md) |
 

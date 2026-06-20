@@ -19,6 +19,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Topic | Date | File |
 |---|---|---|
 | Battle of Long Island | 1776-08-27 | [military/battle-of-long-island.md](military/battle-of-long-island.md) |
+| Battle of Harlem Heights | 1776-09-16 | [military/battle-of-harlem-heights.md](military/battle-of-harlem-heights.md) |
 | Battle of Trenton | 1776-12-26 | [military/battle-of-trenton.md](military/battle-of-trenton.md) |
 
 ## Science & Discovery
@@ -28,6 +29,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 |---|---|---|
 | Buffon's Natural History | 1776-01-01 | [science/buffon-natural-history.md](science/buffon-natural-history.md) |
 | Captain Cook's Third Voyage | 1776-07-12 | [science/captain-cook-third-voyage.md](science/captain-cook-third-voyage.md) |
+| David Hume's Death and Philosophical Legacy | 1776-08-25 | [science/david-hume-1776.md](science/david-hume-1776.md) |
 
 ## Arts & Culture
 → [Category index](arts/index.md)
@@ -35,6 +37,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Topic | Date | File |
 |---|---|---|
 | Mozart in 1776 | 1776-01-01 | [arts/mozart-1776.md](arts/mozart-1776.md) |
+| Haydn's Autobiographical Sketch of 1776 | 1776-01-01 | [arts/haydn-1776-autobiographical-sketch.md](arts/haydn-1776-autobiographical-sketch.md) |
 | Edward Gibbon's Decline and Fall (Vol. 1) | 1776-02-17 | [arts/decline-and-fall-roman-empire.md](arts/decline-and-fall-roman-empire.md) |
 
 ## Economics & Trade
@@ -43,6 +46,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Topic | Date | File |
 |---|---|---|
 | American Fiscal Crisis & Continental Congress Finance | 1776-01-01 | [economics/continental-congress-finance-1776.md](economics/continental-congress-finance-1776.md) |
+| James Watt's Steam Engine | 1776-01-01 | [economics/james-watt-steam-engine.md](economics/james-watt-steam-engine.md) |
 | The Wealth of Nations | 1776-03-09 | [economics/wealth-of-nations.md](economics/wealth-of-nations.md) |
 
 ## Key Figures

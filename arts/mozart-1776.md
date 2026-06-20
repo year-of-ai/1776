@@ -32,6 +32,7 @@ Mozart's 1776 compositions represent a pivotal transitional year in which the co
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
 ## Related
 
+- [Haydn's Autobiographical Sketch of 1776](haydn-1776-autobiographical-sketch.md) — Mozart's elder contemporary and the leading symphonist of the Classical era documented his own career in 1776.
 - [Edward Gibbon's Decline and Fall (Vol. 1)](decline-and-fall-roman-empire.md) — Gibbon's landmark historical work was published the same year, another product of 1776's extraordinary Enlightenment intellectual output.
 - [The Wealth of Nations](../economics/wealth-of-nations.md) — Smith's foundational economics text appeared in March 1776, the same year as Mozart's most prolific Salzburg period.
 - [Captain Cook's Third Voyage](../science/captain-cook-third-voyage.md) — Cook's departure in July 1776 exemplified the same spirit of expansive inquiry that characterized Mozart's Salzburg compositions.
