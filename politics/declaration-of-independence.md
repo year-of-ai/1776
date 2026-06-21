@@ -32,6 +32,8 @@ The Declaration of Independence established the philosophical and legal foundati
 <!-- BEGIN GENERATED: related — maintained by build-structure; do not edit by hand -->
 ## Related
 
+- [Lee Resolution](lee-resolution.md) — The July 2, 1776 vote for independence that the Declaration was drafted to justify and announce.
+- [Thomas Jefferson in 1776](../people/thomas-jefferson-1776.md) — Principal author of the Declaration for the Committee of Five.
 - [Virginia Declaration of Rights](virginia-declaration-of-rights.md) — George Mason's June 12, 1776 declaration that directly influenced Jefferson's drafting of the Declaration.
 - [Thomas Paine](../people/thomas-paine.md) — *Common Sense* (January 1776) prepared public opinion for independence and the Declaration.
 - [The Wealth of Nations](../economics/wealth-of-nations.md) — Published the same year; shared the Enlightenment intellectual milieu shaping the Declaration's philosophy.

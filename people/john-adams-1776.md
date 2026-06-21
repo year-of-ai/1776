@@ -46,6 +46,7 @@ Adams' work in 1776 established him as a principal architect of American indepen
 ## Related
 
 - [Declaration of Independence](../politics/declaration-of-independence.md) — The document Adams helped draft on the Committee of Five and championed on the floor of Congress.
+- [Thomas Jefferson in 1776](thomas-jefferson-1776.md) — Committee-of-Five colleague whom Adams steered into drafting the Declaration.
 - [Thomas Paine](thomas-paine.md) — *Common Sense* (January 1776) prepared public opinion for the independence Adams pressed Congress to declare.
 - [Virginia Declaration of Rights](../politics/virginia-declaration-of-rights.md) — George Mason's June 1776 text, which informed Jefferson's draft and Adams' constitutional thinking.
 - [The British Empire in 1776](../politics/british-empire-1776.md) — The imperial authority Adams and Congress formally rejected on July 4.

@@ -37,6 +37,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Battle of Harlem Heights](military/battle-of-harlem-heights.md) | On September 16, 1776, Washington won his first tactical victory of the Revolutionary War, reviving Continental Army morale after Long Island. |
 | [David Hume's Death and Philosophical Legacy](science/david-hume-1776.md) | The Scottish Enlightenment philosopher died August 25, 1776, leaving an empiricist legacy that reshaped Western thought from Kant onward. |
 | [Haydn's Autobiographical Sketch of 1776](arts/haydn-1776-autobiographical-sketch.md) | At the height of the Classical era Haydn wrote a rare self-account, documenting the autodidact's rise to one of Europe's foremost composers. |
+| [Thomas Jefferson in 1776](people/thomas-jefferson-1776.md) | As principal author of the Declaration of Independence, the 33-year-old Virginian gave the Revolution its enduring statement of natural rights. |
+| [Battle of Sullivan's Island](military/battle-of-sullivans-island.md) | Moultrie's palmetto-log fort repelled a British fleet on June 28, 1776, saving Charleston and the South from invasion for nearly four years. |
+| [Lee Resolution](politics/lee-resolution.md) | Congress's July 2, 1776 vote on Richard Henry Lee's motion was the operative act severing the colonies from Britain, two days before the Declaration. |
 
 ---
 

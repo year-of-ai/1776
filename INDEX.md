@@ -11,6 +11,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 |---|---|---|
 | The British Empire in 1776 | 1776-01-01 | [politics/british-empire-1776.md](politics/british-empire-1776.md) |
 | Virginia Declaration of Rights | 1776-06-12 | [politics/virginia-declaration-of-rights.md](politics/virginia-declaration-of-rights.md) |
+| Lee Resolution | 1776-07-02 | [politics/lee-resolution.md](politics/lee-resolution.md) |
 | Declaration of Independence | 1776-07-04 | [politics/declaration-of-independence.md](politics/declaration-of-independence.md) |
 
 ## Military Events
@@ -18,6 +19,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 
 | Topic | Date | File |
 |---|---|---|
+| Battle of Sullivan's Island | 1776-06-28 | [military/battle-of-sullivans-island.md](military/battle-of-sullivans-island.md) |
 | Battle of Long Island | 1776-08-27 | [military/battle-of-long-island.md](military/battle-of-long-island.md) |
 | Battle of Harlem Heights | 1776-09-16 | [military/battle-of-harlem-heights.md](military/battle-of-harlem-heights.md) |
 | Battle of Trenton | 1776-12-26 | [military/battle-of-trenton.md](military/battle-of-trenton.md) |
@@ -56,6 +58,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 |---|---|---|
 | Thomas Paine | 1776-01-10 | [people/thomas-paine.md](people/thomas-paine.md) |
 | John Adams & the 1776 Continental Congress | 1776-07-04 | [people/john-adams-1776.md](people/john-adams-1776.md) |
+| Thomas Jefferson in 1776 | 1776-07-04 | [people/thomas-jefferson-1776.md](people/thomas-jefferson-1776.md) |
 | Benjamin Franklin & 1776 Diplomacy | 1776-10-26 | [people/benjamin-franklin-1776.md](people/benjamin-franklin-1776.md) |
 
 <!-- END GENERATED: master-index -->
