@@ -40,6 +40,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Thomas Jefferson in 1776](people/thomas-jefferson-1776.md) | As principal author of the Declaration of Independence, the 33-year-old Virginian gave the Revolution its enduring statement of natural rights. |
 | [Battle of Sullivan's Island](military/battle-of-sullivans-island.md) | Moultrie's palmetto-log fort repelled a British fleet on June 28, 1776, saving Charleston and the South from invasion for nearly four years. |
 | [Lee Resolution](politics/lee-resolution.md) | Congress's July 2, 1776 vote on Richard Henry Lee's motion was the operative act severing the colonies from Britain, two days before the Declaration. |
+| [Joseph Brant (Thayendanegea)](people/joseph-brant.md) | The Mohawk leader's London mission (1775–76) and alliance with Britain transformed the Iroquois Confederacy and escalated frontier warfare. |
+| [British Naval Operations in 1776](military/british-naval-operations-1776.md) | Admiral Howe's fleet dominated American coasts; victories at Sullivan's Island and Long Island established naval supremacy that persisted through war's end. |
+| [Scottish Enlightenment and American Revolutionary Thought](arts/scottish-enlightenment-1776.md) | Adam Smith's *Wealth of Nations*, David Hume's philosophical legacy, and John Witherspoon's Declaration signature converged to provide intellectual foundations for independence. |
 
 ---
 

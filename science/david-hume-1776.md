@@ -78,6 +78,7 @@ Hume's grave in Calton Hill, Edinburgh — the simple Roman tomb he requested �
 - [The Wealth of Nations](../economics/wealth-of-nations.md) — Adam Smith's landmark work of 1776, shaped by Hume's philosophical influence.
 - [James Watt's Steam Engine](../economics/james-watt-steam-engine.md) — the 1776 technological embodiment of the empirical, practical-reason worldview Hume championed.
 - [Haydn's Autobiographical Sketch of 1776](../arts/haydn-1776-autobiographical-sketch.md) — another 1776 case of an Enlightenment-era figure consciously reflecting on his own intellectual legacy.
+- [Scottish Enlightenment and American Revolutionary Thought](../arts/scottish-enlightenment-1776.md) — The movement Hume helped define, and the account of his death that became one of its celebrated documents.
 <!-- END GENERATED: related -->
 
 ## Sources

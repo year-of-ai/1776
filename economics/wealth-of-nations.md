@@ -35,4 +35,5 @@ The book influenced contemporaries including American founders Thomas Jefferson 
 - [Virginia Declaration of Rights](../politics/virginia-declaration-of-rights.md) — Mason's declaration of individual rights and Smith's argument for free markets shared the Enlightenment premise of natural liberty.
 - [Thomas Paine](../people/thomas-paine.md) — Paine's *Common Sense* (January 1776) also targeted the mercantilist assumptions underlying British colonial policy.
 - [James Watt's Steam Engine](james-watt-steam-engine.md) — Watt's engine entered commercial use in 1776, the mechanical embodiment of the productive efficiency Smith theorized.
+- [Scottish Enlightenment and American Revolutionary Thought](../arts/scottish-enlightenment-1776.md) — The intellectual movement that produced Smith's work and its links to American independence.
 <!-- END GENERATED: related -->

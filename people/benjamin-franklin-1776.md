@@ -67,4 +67,5 @@ Franklin's work in 1776 established the diplomatic and covert supply networks th
 - [John Adams & the 1776 Continental Congress](john-adams-1776.md) — Fellow Committee of Five member who joined Franklin at the failed Staten Island peace conference on September 11, 1776.
 - [Battle of Long Island](../military/battle-of-long-island.md) — The British victory (August 27) prompted the Staten Island peace conference Franklin attended and accelerated his diplomatic mission to France.
 - [Declaration of Independence](../politics/declaration-of-independence.md) — The document Franklin helped edit and signed, and whose revocation he refused at the Staten Island conference.
+- [Joseph Brant (Thayendanegea) in 1776](joseph-brant.md) — Brant's London mission for a British alliance illustrates the competing diplomacies of 1776 alongside Franklin's mission to France.
 <!-- END GENERATED: related -->

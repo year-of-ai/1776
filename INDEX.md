@@ -20,6 +20,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Topic | Date | File |
 |---|---|---|
 | Battle of Sullivan's Island | 1776-06-28 | [military/battle-of-sullivans-island.md](military/battle-of-sullivans-island.md) |
+| British Naval Operations in 1776 | 1776-06-28 | [military/british-naval-operations-1776.md](military/british-naval-operations-1776.md) |
 | Battle of Long Island | 1776-08-27 | [military/battle-of-long-island.md](military/battle-of-long-island.md) |
 | Battle of Harlem Heights | 1776-09-16 | [military/battle-of-harlem-heights.md](military/battle-of-harlem-heights.md) |
 | Battle of Trenton | 1776-12-26 | [military/battle-of-trenton.md](military/battle-of-trenton.md) |
@@ -41,6 +42,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Mozart in 1776 | 1776-01-01 | [arts/mozart-1776.md](arts/mozart-1776.md) |
 | Haydn's Autobiographical Sketch of 1776 | 1776-01-01 | [arts/haydn-1776-autobiographical-sketch.md](arts/haydn-1776-autobiographical-sketch.md) |
 | Edward Gibbon's Decline and Fall (Vol. 1) | 1776-02-17 | [arts/decline-and-fall-roman-empire.md](arts/decline-and-fall-roman-empire.md) |
+| Scottish Enlightenment and American Revolutionary Thought | 1776-07-04 | [arts/scottish-enlightenment-1776.md](arts/scottish-enlightenment-1776.md) |
 
 ## Economics & Trade
 → [Category index](economics/index.md)
@@ -57,6 +59,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Topic | Date | File |
 |---|---|---|
 | Thomas Paine | 1776-01-10 | [people/thomas-paine.md](people/thomas-paine.md) |
+| Joseph Brant (Thayendanegea) in 1776 | 1776-07-01 | [people/joseph-brant.md](people/joseph-brant.md) |
 | John Adams & the 1776 Continental Congress | 1776-07-04 | [people/john-adams-1776.md](people/john-adams-1776.md) |
 | Thomas Jefferson in 1776 | 1776-07-04 | [people/thomas-jefferson-1776.md](people/thomas-jefferson-1776.md) |
 | Benjamin Franklin & 1776 Diplomacy | 1776-10-26 | [people/benjamin-franklin-1776.md](people/benjamin-franklin-1776.md) |
