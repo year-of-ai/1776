@@ -64,6 +64,7 @@ Not all of Britain supported the war. Edmund Burke delivered his famous "Speech 
 ## Related
 
 - [Declaration of Independence](declaration-of-independence.md) — The formal colonial repudiation of British imperial authority, adopted July 4, 1776.
+- [Lord George Germain: Britain's War Minister](../people/lord-george-germain-1776.md) — The Secretary of State for the Colonies who directed the empire's military effort to suppress the American rebellion.
 - [Battle of Long Island](../military/battle-of-long-island.md) — Britain's largest military operation of 1776, which secured New York as a base for imperial forces.
 - [The Wealth of Nations](../economics/wealth-of-nations.md) — Adam Smith's 1776 critique of mercantile empire, published the same year.
 - [Captain Cook's Third Voyage](../science/captain-cook-third-voyage.md) — Launched July 1776, expanding imperial reach in the Pacific even as the empire contracted in America.

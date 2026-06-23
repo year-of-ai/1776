@@ -24,11 +24,14 @@ A chronological index of notable events, works, and discoveries of the year 1776
 | 1776-07-04 | John Adams champions independence in the Second Continental Congress and serves on the Committee of Five | Key Figures | [people/john-adams-1776.md](people/john-adams-1776.md) |
 | 1776-07-04 | Thomas Jefferson, principal author of the Declaration of Independence, completes and submits his draft to Congress | Key Figures | [people/thomas-jefferson-1776.md](people/thomas-jefferson-1776.md) |
 | 1776-07-04 | Scottish Enlightenment thought converges on American independence through Smith, Hume, and Witherspoon | Arts & Culture | [arts/scottish-enlightenment-1776.md](arts/scottish-enlightenment-1776.md) |
+| 1776-07-08 | The Declaration of Independence is first publicly proclaimed in Philadelphia, Trenton, and Easton | Political Events | [politics/declaration-public-proclamation.md](politics/declaration-public-proclamation.md) |
 | 1776-07-12 | Captain Cook's Third Voyage departs Plymouth aboard HMS Resolution and HMS Discovery | Science & Discovery | [science/captain-cook-third-voyage.md](science/captain-cook-third-voyage.md) |
 | 1776-08-25 | David Hume, philosopher of the Scottish Enlightenment, dies in Edinburgh, leaving a profound empiricist legacy | Science & Discovery | [science/david-hume-1776.md](science/david-hume-1776.md) |
 | 1776-08-27 | Battle of Long Island — largest engagement of the Revolutionary War; Washington evacuates 9,000 troops | Military Events | [military/battle-of-long-island.md](military/battle-of-long-island.md) |
 | 1776-09-16 | Battle of Harlem Heights — Washington's first tactical victory of the Revolutionary War revives Continental morale | Military Events | [military/battle-of-harlem-heights.md](military/battle-of-harlem-heights.md) |
+| 1776-09-20 | The Great Fire of New York destroys up to a quarter of Manhattan days after the British occupation | Military Events | [military/great-fire-of-new-york-1776.md](military/great-fire-of-new-york-1776.md) |
 | 1776-10-26 | Benjamin Franklin sails from Philadelphia for France to negotiate the Treaty of Alliance | Key Figures | [people/benjamin-franklin-1776.md](people/benjamin-franklin-1776.md) |
+| 1776-11-10 | Lord George Germain, Secretary of State for the Colonies, directs British war strategy against the American rebellion | Key Figures | [people/lord-george-germain-1776.md](people/lord-george-germain-1776.md) |
 | 1776-12-26 | Battle of Trenton — Washington crosses the Delaware; Hessian garrison captured | Military Events | [military/battle-of-trenton.md](military/battle-of-trenton.md) |
 
 <!-- END GENERATED: timeline -->

@@ -75,6 +75,7 @@ The death of Colonel Thomas Knowlton, sometimes called "the American Ajax," depr
 ## Related
 
 - [Battle of Long Island](battle-of-long-island.md) — the preceding defeat that made Harlem Heights strategically essential.
+- [The Great Fire of New York (1776)](great-fire-of-new-york-1776.md) — the blaze four days later that swept the city the British had just occupied.
 - [Battle of Trenton](battle-of-trenton.md) — the subsequent December victory that, combined with Harlem Heights, saved the Revolution in 1776.
 - [Declaration of Independence](../politics/declaration-of-independence.md) — the political context that gave the military campaign its ideological stakes.
 <!-- END GENERATED: related -->

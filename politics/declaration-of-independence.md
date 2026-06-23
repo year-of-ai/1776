@@ -33,6 +33,7 @@ The Declaration of Independence established the philosophical and legal foundati
 ## Related
 
 - [Lee Resolution](lee-resolution.md) — The July 2, 1776 vote for independence that the Declaration was drafted to justify and announce.
+- [Public Proclamation of the Declaration of Independence](declaration-public-proclamation.md) — The July 8, 1776 public readings that carried the adopted text to the colonies and the army.
 - [Thomas Jefferson in 1776](../people/thomas-jefferson-1776.md) — Principal author of the Declaration for the Committee of Five.
 - [Virginia Declaration of Rights](virginia-declaration-of-rights.md) — George Mason's June 12, 1776 declaration that directly influenced Jefferson's drafting of the Declaration.
 - [Thomas Paine](../people/thomas-paine.md) — *Common Sense* (January 1776) prepared public opinion for independence and the Declaration.

@@ -34,4 +34,5 @@ The defense of Sullivan's Island secured Charleston and the southern colonies fr
 - [Battle of Trenton](battle-of-trenton.md) — Washington's December 1776 counterstroke, another morale-defining American victory of the year.
 - [Lee Resolution](../politics/lee-resolution.md) — Congress declared independence days after the victory at Charleston.
 - [British Naval Operations in 1776](british-naval-operations-1776.md) — The wider Royal Navy campaign of which the failed Charleston bombardment was a part.
+- [Lord George Germain: Britain's War Minister](../people/lord-george-germain-1776.md) — The Secretary of State for the Colonies who authorized the southern expedition that ended in defeat here.
 <!-- END GENERATED: related -->

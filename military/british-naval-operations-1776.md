@@ -145,4 +145,5 @@ British naval operations in 1776 established several strategic patterns that wou
 - [Battle of Trenton](battle-of-trenton.md) — Washington's December counter-attack exploiting a gap in British river control.
 - [Joseph Brant (Thayendanegea) in 1776](../people/joseph-brant.md) — the Mohawk ally who participated in the Long Island operation.
 - [The British Empire in 1776](../politics/british-empire-1776.md) — the strategic context for British naval deployment.
+- [Lord George Germain: Britain's War Minister](../people/lord-george-germain-1776.md) — the Secretary of State who coordinated the Army and Admiralty directing these operations.
 <!-- END GENERATED: related -->

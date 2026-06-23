@@ -13,6 +13,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Virginia Declaration of Rights | 1776-06-12 | [politics/virginia-declaration-of-rights.md](politics/virginia-declaration-of-rights.md) |
 | Lee Resolution | 1776-07-02 | [politics/lee-resolution.md](politics/lee-resolution.md) |
 | Declaration of Independence | 1776-07-04 | [politics/declaration-of-independence.md](politics/declaration-of-independence.md) |
+| Public Proclamation of the Declaration of Independence | 1776-07-08 | [politics/declaration-public-proclamation.md](politics/declaration-public-proclamation.md) |
 
 ## Military Events
 → [Category index](military/index.md)
@@ -23,6 +24,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | British Naval Operations in 1776 | 1776-06-28 | [military/british-naval-operations-1776.md](military/british-naval-operations-1776.md) |
 | Battle of Long Island | 1776-08-27 | [military/battle-of-long-island.md](military/battle-of-long-island.md) |
 | Battle of Harlem Heights | 1776-09-16 | [military/battle-of-harlem-heights.md](military/battle-of-harlem-heights.md) |
+| The Great Fire of New York (1776) | 1776-09-20 | [military/great-fire-of-new-york-1776.md](military/great-fire-of-new-york-1776.md) |
 | Battle of Trenton | 1776-12-26 | [military/battle-of-trenton.md](military/battle-of-trenton.md) |
 
 ## Science & Discovery
@@ -63,5 +65,6 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | John Adams & the 1776 Continental Congress | 1776-07-04 | [people/john-adams-1776.md](people/john-adams-1776.md) |
 | Thomas Jefferson in 1776 | 1776-07-04 | [people/thomas-jefferson-1776.md](people/thomas-jefferson-1776.md) |
 | Benjamin Franklin & 1776 Diplomacy | 1776-10-26 | [people/benjamin-franklin-1776.md](people/benjamin-franklin-1776.md) |
+| Lord George Germain: Britain's War Minister | 1776-11-10 | [people/lord-george-germain-1776.md](people/lord-george-germain-1776.md) |
 
 <!-- END GENERATED: master-index -->

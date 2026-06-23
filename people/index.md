@@ -11,5 +11,6 @@ Topics covering notable individuals who shaped the year 1776.
 | [John Adams & the 1776 Continental Congress](john-adams-1776.md) | Massachusetts delegate and leading advocate for independence, who served on the Committee of Five and championed the Declaration's adoption while chairing the Board of War. |
 | [Thomas Jefferson in 1776](thomas-jefferson-1776.md) | Virginia delegate and principal author of the Declaration of Independence, who drafted it in June 1776 and afterward began reforming Virginia's laws in the new House of Delegates. |
 | [Benjamin Franklin & 1776 Diplomacy](benjamin-franklin-1776.md) | Statesman and natural philosopher who, at 70, served on the Committee of Five, undertook the failed Canada mission, and sailed to France in October 1776 to secure the alliance critical to American independence. |
+| [Lord George Germain: Britain's War Minister](lord-george-germain-1776.md) | Secretary of State for the Colonies from 1775 to 1782 and Britain's chief strategist for suppressing the American Revolution, whose coordination of the 1776 campaigns and later miscalculations contributed to British defeat. |
 
 <!-- END GENERATED: category-index -->

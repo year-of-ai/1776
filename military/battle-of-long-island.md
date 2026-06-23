@@ -75,5 +75,6 @@ The Battle of Long Island demonstrated both the vulnerability of Washington's Co
 - [American Fiscal Crisis & Continental Congress Finance](../economics/continental-congress-finance-1776.md) — The New York campaign's losses forced the emergency currency emissions of November–December 1776.
 - [Thomas Paine](../people/thomas-paine.md) — Paine's *American Crisis* (December 1776) was written in direct response to the defeats following Long Island.
 - [British Naval Operations in 1776](british-naval-operations-1776.md) — The Royal Navy's amphibious lift and East River dominance that made the British victory possible.
+- [The Great Fire of New York (1776)](great-fire-of-new-york-1776.md) — The September blaze that ravaged the New York the Long Island campaign had delivered to British control.
 - [Joseph Brant (Thayendanegea) in 1776](../people/joseph-brant.md) — The Mohawk leader who likely served with the Jamaica Pass flanking column.
 <!-- END GENERATED: related -->

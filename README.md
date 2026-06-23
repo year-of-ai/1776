@@ -20,6 +20,7 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | Event | Description |
 |---|---|
 | [Declaration of Independence](politics/declaration-of-independence.md) | The Second Continental Congress adopted the U.S. Declaration of Independence on July 4, 1776, founding a new nation. |
+| [Public Proclamation of the Declaration](politics/declaration-public-proclamation.md) | July 8, 1776: crowds heard the Declaration read aloud in Philadelphia, Trenton, and Easton, learning of independence through the Liberty Bell's ring. |
 | [Thomas Paine's *Common Sense*](people/thomas-paine.md) | Paine's influential January 1776 pamphlet galvanized colonial support for independence from Britain. |
 | [Battle of Long Island](military/battle-of-long-island.md) | British forces defeated Washington's Continental Army in August 1776, the largest battle of the Revolutionary War. |
 | [Battle of Trenton](military/battle-of-trenton.md) | Washington's surprise crossing of the Delaware River on December 26, 1776 reversed Continental Army fortunes. |
@@ -32,9 +33,11 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [The British Empire in 1776: Global Reach and Colonies](politics/british-empire-1776.md) | Britain controlled vast territories across North America, the Caribbean, Asia, and Africa, enforcing strict policies that precipitated the American Revolution and reshaped imperial strategy. |
 | [Buffon's Natural History: Revolutionizing Scientific Classification](science/buffon-natural-history.md) | Buffon continued publishing his monumental *Histoire naturelle*, advancing natural history through biogeography, earth science, and speculative theories on species transformation during the Enlightenment. |
 | [Benjamin Franklin & 1776 Diplomacy](people/benjamin-franklin-1776.md) | Franklin served on the Committee of Five, led the Canada mission, and sailed to France in October 1776 to secure the alliance that ensured American independence. |
+| [Lord George Germain: Britain's War Minister](people/lord-george-germain-1776.md) | Secretary of State for the Colonies, Germain orchestrated British strategy from 1776–1782; his strategic miscalculations, particularly the Saratoga campaign failure, hastened Britain's defeat. |
 | [American Fiscal Crisis & Continental Congress Finance](economics/continental-congress-finance-1776.md) | Lacking taxing power, Congress issued $25 million in paper currency in 1776 and secured covert French loans, establishing the fiscal crisis that shaped the U.S. Constitution. |
 | [James Watt's Steam Engine](economics/james-watt-steam-engine.md) | Watt's separate-condenser engine entered commercial use in 1776, freeing factories from water power and propelling the Industrial Revolution. |
 | [Battle of Harlem Heights](military/battle-of-harlem-heights.md) | On September 16, 1776, Washington won his first tactical victory of the Revolutionary War, reviving Continental Army morale after Long Island. |
+| [The Great Fire of New York (1776)](military/great-fire-of-new-york-1776.md) | September 20–21, 1776: a devastating fire destroyed ~25% of New York City following British occupation, symbolizing the destruction wrought by military control. |
 | [David Hume's Death and Philosophical Legacy](science/david-hume-1776.md) | The Scottish Enlightenment philosopher died August 25, 1776, leaving an empiricist legacy that reshaped Western thought from Kant onward. |
 | [Haydn's Autobiographical Sketch of 1776](arts/haydn-1776-autobiographical-sketch.md) | At the height of the Classical era Haydn wrote a rare self-account, documenting the autodidact's rise to one of Europe's foremost composers. |
 | [Thomas Jefferson in 1776](people/thomas-jefferson-1776.md) | As principal author of the Declaration of Independence, the 33-year-old Virginian gave the Revolution its enduring statement of natural rights. |
