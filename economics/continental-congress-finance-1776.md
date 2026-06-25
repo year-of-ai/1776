@@ -66,4 +66,5 @@ The fiscal arrangements of 1776 were among the most consequential — and most p
 - [Benjamin Franklin & 1776 Diplomacy](../people/benjamin-franklin-1776.md) — Franklin directed the Committee of Secret Correspondence that arranged the covert French and Spanish subsidies underwriting Continental finance from mid-1776.
 - [The Wealth of Nations](wealth-of-nations.md) — Adam Smith's March 1776 treatise analyzed the taxation, paper-money, and mercantilist distortions the Continental Congress was simultaneously living out.
 - [Battle of Long Island](../military/battle-of-long-island.md) — The New York campaign's losses drove the November–December 1776 emergency currency emissions that deepened the inflationary spiral.
+- [The Prohibitory Act and the Blockade of American Trade](prohibitory-act-1776.md) — The 1776 blockade of colonial commerce sharpened the import shortages and inflationary pressures Congress struggled to finance.
 <!-- END GENERATED: related -->

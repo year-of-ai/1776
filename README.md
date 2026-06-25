@@ -46,6 +46,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Joseph Brant (Thayendanegea)](people/joseph-brant.md) | The Mohawk leader's London mission (1775–76) and alliance with Britain transformed the Iroquois Confederacy and escalated frontier warfare. |
 | [British Naval Operations in 1776](military/british-naval-operations-1776.md) | Admiral Howe's fleet dominated American coasts; victories at Sullivan's Island and Long Island established naval supremacy that persisted through war's end. |
 | [Scottish Enlightenment and American Revolutionary Thought](arts/scottish-enlightenment-1776.md) | Adam Smith's *Wealth of Nations*, David Hume's philosophical legacy, and John Witherspoon's Declaration signature converged to provide intellectual foundations for independence. |
+| [Alessandro Volta's Discovery of Methane](science/volta-methane-1776.md) | Volta identified "inflammable air from marshes" at Lake Maggiore in November 1776, founding the scientific study of methane. |
+| [Phillis Wheatley and "To His Excellency General Washington"](arts/phillis-wheatley-1776.md) | Wheatley's 1775 ode to Washington was published in the Pennsylvania Magazine in April 1776, marking a landmark of early African American letters. |
+| [The Prohibitory Act and the Blockade of American Trade](economics/prohibitory-act-1776.md) | Parliament's December 1775 act declaring colonial ships forfeit was read by John Adams as an "Act of Independency," accelerating Congress's path to independence. |
 
 ---
 

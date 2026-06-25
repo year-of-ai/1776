@@ -12,8 +12,10 @@ A chronological index of notable events, works, and discoveries of the year 1776
 | 1776-01-01 | Continental Congress finances the war through paper currency, loan offices, and covert French aid amid a structural fiscal crisis | Economics & Trade | [economics/continental-congress-finance-1776.md](economics/continental-congress-finance-1776.md) |
 | 1776-01-01 | James Watt's separate-condenser steam engine enters commercial use, freeing industry from water power and accelerating the Industrial Revolution | Economics & Trade | [economics/james-watt-steam-engine.md](economics/james-watt-steam-engine.md) |
 | 1776-01-01 | Joseph Haydn writes his *Autobiographical Sketch*, reflecting on his rise to the foremost composer of the Classical era | Arts & Culture | [arts/haydn-1776-autobiographical-sketch.md](arts/haydn-1776-autobiographical-sketch.md) |
+| 1776-01-01 | The Prohibitory Act takes effect, withdrawing Crown protection and declaring colonial ships forfeit, tightening the Royal Navy blockade of American trade | Economics & Trade | [economics/prohibitory-act-1776.md](economics/prohibitory-act-1776.md) |
 | 1776-01-10 | Thomas Paine publishes *Common Sense*, galvanizing colonial support for independence | Key Figures | [people/thomas-paine.md](people/thomas-paine.md) |
 | 1776-02-17 | Edward Gibbon publishes Vol. 1 of *The Decline and Fall of the Roman Empire* | Arts & Culture | [arts/decline-and-fall-roman-empire.md](arts/decline-and-fall-roman-empire.md) |
+| 1776-03-01 | Phillis Wheatley visits Washington at Cambridge; her ode "To His Excellency General Washington" reaches print in April 1776 | Arts & Culture | [arts/phillis-wheatley-1776.md](arts/phillis-wheatley-1776.md) |
 | 1776-03-09 | Adam Smith publishes *The Wealth of Nations*, founding classical economics | Economics & Trade | [economics/wealth-of-nations.md](economics/wealth-of-nations.md) |
 | 1776-06-12 | Virginia Declaration of Rights adopted — first enumerated bill of rights in American history | Political Events | [politics/virginia-declaration-of-rights.md](politics/virginia-declaration-of-rights.md) |
 | 1776-06-28 | Battle of Sullivan's Island — Moultrie's palmetto-log fort repels a British fleet, saving Charleston and the South | Military Events | [military/battle-of-sullivans-island.md](military/battle-of-sullivans-island.md) |
@@ -31,6 +33,7 @@ A chronological index of notable events, works, and discoveries of the year 1776
 | 1776-09-16 | Battle of Harlem Heights — Washington's first tactical victory of the Revolutionary War revives Continental morale | Military Events | [military/battle-of-harlem-heights.md](military/battle-of-harlem-heights.md) |
 | 1776-09-20 | The Great Fire of New York destroys up to a quarter of Manhattan days after the British occupation | Military Events | [military/great-fire-of-new-york-1776.md](military/great-fire-of-new-york-1776.md) |
 | 1776-10-26 | Benjamin Franklin sails from Philadelphia for France to negotiate the Treaty of Alliance | Key Figures | [people/benjamin-franklin-1776.md](people/benjamin-franklin-1776.md) |
+| 1776-11-01 | Alessandro Volta identifies "inflammable air from marshes" (methane) at Lake Maggiore, founding its scientific study | Science & Discovery | [science/volta-methane-1776.md](science/volta-methane-1776.md) |
 | 1776-11-10 | Lord George Germain, Secretary of State for the Colonies, directs British war strategy against the American rebellion | Key Figures | [people/lord-george-germain-1776.md](people/lord-george-germain-1776.md) |
 | 1776-12-26 | Battle of Trenton — Washington crosses the Delaware; Hessian garrison captured | Military Events | [military/battle-of-trenton.md](military/battle-of-trenton.md) |
 
