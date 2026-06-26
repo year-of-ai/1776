@@ -32,6 +32,7 @@ The Battle of Trenton was Washington's first major offensive victory of the Revo
 ## Related
 
 - [Battle of Long Island](battle-of-long-island.md) — The August 1776 defeat that preceded Trenton and threatened the Continental Army's survival.
+- [Hessian Troops & Foreign Mercenaries (1776–1783)](hessian-troops-1776.md) — Colonel Rall's Hessian brigade was the garrison surprised and captured in the assault.
 - [Thomas Paine](../people/thomas-paine.md) — Paine's *American Crisis* ("These are the times that try men's souls") was read aloud to troops before the crossing.
 - [Declaration of Independence](../politics/declaration-of-independence.md) — Trenton was fought in defense of the independence declared six months earlier.
 <!-- END GENERATED: related -->

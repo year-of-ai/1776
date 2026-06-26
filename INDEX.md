@@ -14,6 +14,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Lee Resolution | 1776-07-02 | [politics/lee-resolution.md](politics/lee-resolution.md) |
 | Declaration of Independence | 1776-07-04 | [politics/declaration-of-independence.md](politics/declaration-of-independence.md) |
 | Public Proclamation of the Declaration of Independence | 1776-07-08 | [politics/declaration-public-proclamation.md](politics/declaration-public-proclamation.md) |
+| French Alliance & Diplomacy (1776–1778) | 1778-02-06 | [politics/french-alliance-1778.md](politics/french-alliance-1778.md) |
 
 ## Military Events
 → [Category index](military/index.md)
@@ -22,6 +23,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 |---|---|---|
 | Battle of Sullivan's Island | 1776-06-28 | [military/battle-of-sullivans-island.md](military/battle-of-sullivans-island.md) |
 | British Naval Operations in 1776 | 1776-06-28 | [military/british-naval-operations-1776.md](military/british-naval-operations-1776.md) |
+| Hessian Troops & Foreign Mercenaries (1776–1783) | 1776-08-01 | [military/hessian-troops-1776.md](military/hessian-troops-1776.md) |
 | Battle of Long Island | 1776-08-27 | [military/battle-of-long-island.md](military/battle-of-long-island.md) |
 | Battle of Harlem Heights | 1776-09-16 | [military/battle-of-harlem-heights.md](military/battle-of-harlem-heights.md) |
 | The Great Fire of New York (1776) | 1776-09-20 | [military/great-fire-of-new-york-1776.md](military/great-fire-of-new-york-1776.md) |

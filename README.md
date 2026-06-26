@@ -49,6 +49,8 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Alessandro Volta's Discovery of Methane](science/volta-methane-1776.md) | Volta identified "inflammable air from marshes" at Lake Maggiore in November 1776, founding the scientific study of methane. |
 | [Phillis Wheatley and "To His Excellency General Washington"](arts/phillis-wheatley-1776.md) | Wheatley's 1775 ode to Washington was published in the Pennsylvania Magazine in April 1776, marking a landmark of early African American letters. |
 | [The Prohibitory Act and the Blockade of American Trade](economics/prohibitory-act-1776.md) | Parliament's December 1775 act declaring colonial ships forfeit was read by John Adams as an "Act of Independency," accelerating Congress's path to independence. |
+| [Hessian Troops & Foreign Mercenaries](military/hessian-troops-1776.md) | Britain hired ~30,000 German soldiers from six German territories starting August 1776; the Hessians' presence inflamed American grievances and was condemned in the Declaration of Independence. |
+| [French Alliance & Diplomacy (1776–1778)](politics/french-alliance-1778.md) | Benjamin Franklin's diplomatic mission to France culminated in the Treaty of Alliance (February 6, 1778), securing French military, naval, and financial support decisive to American victory. |
 
 ---
 

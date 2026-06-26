@@ -28,6 +28,7 @@ A chronological index of notable events, works, and discoveries of the year 1776
 | 1776-07-04 | Scottish Enlightenment thought converges on American independence through Smith, Hume, and Witherspoon | Arts & Culture | [arts/scottish-enlightenment-1776.md](arts/scottish-enlightenment-1776.md) |
 | 1776-07-08 | The Declaration of Independence is first publicly proclaimed in Philadelphia, Trenton, and Easton | Political Events | [politics/declaration-public-proclamation.md](politics/declaration-public-proclamation.md) |
 | 1776-07-12 | Captain Cook's Third Voyage departs Plymouth aboard HMS Resolution and HMS Discovery | Science & Discovery | [science/captain-cook-third-voyage.md](science/captain-cook-third-voyage.md) |
+| 1776-08-01 | German auxiliary troops ("Hessians") begin arriving in America — some 30,000 hired from six German states fight at Long Island, Fort Washington, and Trenton | Military Events | [military/hessian-troops-1776.md](military/hessian-troops-1776.md) |
 | 1776-08-25 | David Hume, philosopher of the Scottish Enlightenment, dies in Edinburgh, leaving a profound empiricist legacy | Science & Discovery | [science/david-hume-1776.md](science/david-hume-1776.md) |
 | 1776-08-27 | Battle of Long Island — largest engagement of the Revolutionary War; Washington evacuates 9,000 troops | Military Events | [military/battle-of-long-island.md](military/battle-of-long-island.md) |
 | 1776-09-16 | Battle of Harlem Heights — Washington's first tactical victory of the Revolutionary War revives Continental morale | Military Events | [military/battle-of-harlem-heights.md](military/battle-of-harlem-heights.md) |
@@ -36,5 +37,6 @@ A chronological index of notable events, works, and discoveries of the year 1776
 | 1776-11-01 | Alessandro Volta identifies "inflammable air from marshes" (methane) at Lake Maggiore, founding its scientific study | Science & Discovery | [science/volta-methane-1776.md](science/volta-methane-1776.md) |
 | 1776-11-10 | Lord George Germain, Secretary of State for the Colonies, directs British war strategy against the American rebellion | Key Figures | [people/lord-george-germain-1776.md](people/lord-george-germain-1776.md) |
 | 1776-12-26 | Battle of Trenton — Washington crosses the Delaware; Hessian garrison captured | Military Events | [military/battle-of-trenton.md](military/battle-of-trenton.md) |
+| 1778-02-06 | France and the United States sign the Treaty of Alliance and Treaty of Amity and Commerce — the first U.S. alliance, rooted in covert French aid begun in 1776 | Political Events | [politics/french-alliance-1778.md](politics/french-alliance-1778.md) |
 
 <!-- END GENERATED: timeline -->
