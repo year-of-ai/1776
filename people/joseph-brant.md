@@ -110,4 +110,5 @@ His London mission anticipated by nearly a century the diplomatic strategies tha
 - [British Naval Operations in 1776](../military/british-naval-operations-1776.md) — the naval campaign that framed the New York operations.
 - [The British Empire in 1776](../politics/british-empire-1776.md) — the imperial context for Brant's alliance-building.
 - [Benjamin Franklin & 1776 Diplomacy](benjamin-franklin-1776.md) — a parallel diplomatic mission illustrating the competing diplomacies of 1776.
+- [American Invasion of Canada (1775–1776)](../military/american-invasion-of-canada-1776.md) — the northern campaign during which Britain's Indigenous alliances helped secure the Quebec frontier against the Continental Army.
 <!-- END GENERATED: related -->

@@ -147,4 +147,5 @@ British naval operations in 1776 established several strategic patterns that wou
 - [The British Empire in 1776](../politics/british-empire-1776.md) — the strategic context for British naval deployment.
 - [Lord George Germain: Britain's War Minister](../people/lord-george-germain-1776.md) — the Secretary of State who coordinated the Army and Admiralty directing these operations.
 - [The Prohibitory Act and the Blockade of American Trade](../economics/prohibitory-act-1776.md) — the legislation that authorized the Royal Navy to seize colonial shipping these operations enforced.
+- [American Invasion of Canada (1775–1776)](american-invasion-of-canada-1776.md) — the campaign whose collapse hinged on the Royal Navy's spring 1776 relief of besieged Quebec City by way of the St. Lawrence.
 <!-- END GENERATED: related -->

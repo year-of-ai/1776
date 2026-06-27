@@ -21,6 +21,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 
 | Topic | Date | File |
 |---|---|---|
+| American Invasion of Canada (1775–1776) | 1776-06-08 | [military/american-invasion-of-canada-1776.md](military/american-invasion-of-canada-1776.md) |
 | Battle of Sullivan's Island | 1776-06-28 | [military/battle-of-sullivans-island.md](military/battle-of-sullivans-island.md) |
 | British Naval Operations in 1776 | 1776-06-28 | [military/british-naval-operations-1776.md](military/british-naval-operations-1776.md) |
 | Hessian Troops & Foreign Mercenaries (1776–1783) | 1776-08-01 | [military/hessian-troops-1776.md](military/hessian-troops-1776.md) |

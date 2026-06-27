@@ -78,4 +78,5 @@ For the German principalities, the financial returns were transformative in scal
 - [British Naval Operations in 1776](british-naval-operations-1776.md) — The Royal Navy's amphibious lift that carried the German auxiliaries to New York in the summer of 1776.
 - [Declaration of Independence](../politics/declaration-of-independence.md) — Its grievances against George III explicitly condemned the hiring of "foreign Mercenaries to compleat the works of death."
 - [French Alliance & Diplomacy (1776–1778)](../politics/french-alliance-1778.md) — The Hessian subsidies were cited in European courts as evidence of British overreach, easing France's path to open alliance.
+- [American Invasion of Canada (1775–1776)](american-invasion-of-canada-1776.md) — German auxiliaries were among the roughly 10,000 reinforcements that reached Quebec in spring 1776 and drove the Continental Army out of Canada.
 <!-- END GENERATED: related -->
