@@ -13,6 +13,8 @@ Topics covering battles and campaigns of the American Revolutionary War and beyo
 | [Battle of Long Island](battle-of-long-island.md) | The largest engagement of the American Revolutionary War by troop numbers, fought August 27, 1776 in Brooklyn, New York; ended in Washington's masterful nighttime evacuation across the East River. |
 | [Battle of Harlem Heights](battle-of-harlem-heights.md) | Fought September 16, 1776 in upper Manhattan; Washington's first tactical victory of the Revolutionary War, which restored Continental Army morale after the Kip's Bay rout and the loss of Long Island. |
 | [The Great Fire of New York (1776)](great-fire-of-new-york-1776.md) | A fire on September 20–21, 1776 that destroyed up to a quarter of Manhattan days after the British occupation; its disputed cause fueled mutual arson accusations and shaped the seven-year occupation. |
+| [Battle of White Plains](battle-of-white-plains.md) | Fought October 28, 1776 in Westchester County, New York; Howe drove Washington from Chatterton's Hill, but the Continental Army again withdrew intact, prolonging the war of maneuver north of Manhattan. |
+| [Battle of Fort Washington](battle-of-fort-washington.md) | Fought November 16, 1776 on upper Manhattan; the storming of the island's last American fort cost nearly 2,900 prisoners and triggered the Continental Army's retreat across New Jersey. |
 | [Battle of Trenton](battle-of-trenton.md) | Washington's surprise crossing of the Delaware River on December 26, 1776 resulted in the capture of a Hessian garrison, reversing Continental Army fortunes. |
 
 <!-- END GENERATED: category-index -->

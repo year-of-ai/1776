@@ -35,8 +35,10 @@ A chronological index of notable events, works, and discoveries of the year 1776
 | 1776-09-16 | Battle of Harlem Heights — Washington's first tactical victory of the Revolutionary War revives Continental morale | Military Events | [military/battle-of-harlem-heights.md](military/battle-of-harlem-heights.md) |
 | 1776-09-20 | The Great Fire of New York destroys up to a quarter of Manhattan days after the British occupation | Military Events | [military/great-fire-of-new-york-1776.md](military/great-fire-of-new-york-1776.md) |
 | 1776-10-26 | Benjamin Franklin sails from Philadelphia for France to negotiate the Treaty of Alliance | Key Figures | [people/benjamin-franklin-1776.md](people/benjamin-franklin-1776.md) |
+| 1776-10-28 | Battle of White Plains — Howe drives Washington from Chatterton's Hill, but the Continental Army withdraws intact | Military Events | [military/battle-of-white-plains.md](military/battle-of-white-plains.md) |
 | 1776-11-01 | Alessandro Volta identifies "inflammable air from marshes" (methane) at Lake Maggiore, founding its scientific study | Science & Discovery | [science/volta-methane-1776.md](science/volta-methane-1776.md) |
 | 1776-11-10 | Lord George Germain, Secretary of State for the Colonies, directs British war strategy against the American rebellion | Key Figures | [people/lord-george-germain-1776.md](people/lord-george-germain-1776.md) |
+| 1776-11-16 | Battle of Fort Washington — Manhattan's last American fort falls; nearly 2,900 troops captured, forcing the retreat across New Jersey | Military Events | [military/battle-of-fort-washington.md](military/battle-of-fort-washington.md) |
 | 1776-12-26 | Battle of Trenton — Washington crosses the Delaware; Hessian garrison captured | Military Events | [military/battle-of-trenton.md](military/battle-of-trenton.md) |
 | 1778-02-06 | France and the United States sign the Treaty of Alliance and Treaty of Amity and Commerce — the first U.S. alliance, rooted in covert French aid begun in 1776 | Political Events | [politics/french-alliance-1778.md](politics/french-alliance-1778.md) |
 

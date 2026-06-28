@@ -28,6 +28,8 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Battle of Long Island | 1776-08-27 | [military/battle-of-long-island.md](military/battle-of-long-island.md) |
 | Battle of Harlem Heights | 1776-09-16 | [military/battle-of-harlem-heights.md](military/battle-of-harlem-heights.md) |
 | The Great Fire of New York (1776) | 1776-09-20 | [military/great-fire-of-new-york-1776.md](military/great-fire-of-new-york-1776.md) |
+| Battle of White Plains | 1776-10-28 | [military/battle-of-white-plains.md](military/battle-of-white-plains.md) |
+| Battle of Fort Washington | 1776-11-16 | [military/battle-of-fort-washington.md](military/battle-of-fort-washington.md) |
 | Battle of Trenton | 1776-12-26 | [military/battle-of-trenton.md](military/battle-of-trenton.md) |
 
 ## Science & Discovery
