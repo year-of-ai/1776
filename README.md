@@ -54,6 +54,8 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [French Alliance & Diplomacy (1776–1778)](politics/french-alliance-1778.md) | Benjamin Franklin's diplomatic mission to France culminated in the Treaty of Alliance (February 6, 1778), securing French military, naval, and financial support decisive to American victory. |
 | [Battle of White Plains](military/battle-of-white-plains.md) | On October 28, 1776, Howe's army drove Washington from Chatterton's Hill, but the Continental Army again escaped destruction and withdrew intact to fight on. |
 | [Battle of Fort Washington](military/battle-of-fort-washington.md) | On November 16, 1776, Manhattan's last American fort fell, with nearly 2,900 troops captured — a crippling defeat that forced the retreat across New Jersey. |
+| [The Founding of San Francisco](politics/founding-of-san-francisco-1776.md) | Spain dedicated the Presidio (September 17, 1776) and Mission Dolores (October 9, 1776) on San Francisco Bay, founding the city and marking the northern limit of New Spain. |
+| [John Harrison and the Marine Chronometer](science/john-harrison-marine-chronometer.md) | The clockmaker who solved the longitude problem died March 24, 1776, as his H4-derived chronometer sailed with Captain Cook, founding modern marine navigation. |
 
 ---
 

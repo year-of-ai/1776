@@ -11,6 +11,7 @@ Topics covering political developments, declarations, constitutions, and governa
 | [Lee Resolution](lee-resolution.md) | Richard Henry Lee's motion for independence, adopted July 2, 1776 — the operative act severing the thirteen colonies from Britain two days before the Declaration was approved. |
 | [Declaration of Independence](declaration-of-independence.md) | The foundational document by which the Second Continental Congress announced and justified the separation of the thirteen American colonies from Great Britain on July 4, 1776. |
 | [Public Proclamation of the Declaration of Independence](declaration-public-proclamation.md) | The first public readings of the Declaration on July 8, 1776 in Philadelphia, Trenton, and Easton, distributed via the Dunlap broadside and reaching the Continental Army and Europe over the following weeks. |
+| [The Founding of San Francisco](founding-of-san-francisco-1776.md) | Spain's dedication of the Presidio (September 17, 1776) and Mission Dolores (October 9, 1776) on San Francisco Bay — the northernmost outpost of New Spain, born of the Anza overland expedition. |
 | [French Alliance & Diplomacy (1776–1778)](french-alliance-1778.md) | Benjamin Franklin's mission to France — rooted in covert aid from May 1776 — culminated in the Treaty of Alliance of February 6, 1778, the first U.S. treaty of alliance and a decisive turning point of the Revolutionary War. |
 
 <!-- END GENERATED: category-index -->

@@ -36,4 +36,5 @@ Cook's third voyage extended European geographic and scientific knowledge across
 - [The Wealth of Nations](../economics/wealth-of-nations.md) — Published the same year; both Cook's voyage and Smith's work reflected the expansive empirical ambition of the Enlightenment.
 - [Edward Gibbon's Decline and Fall (Vol. 1)](../arts/decline-and-fall-roman-empire.md) — Gibbon's first volume also appeared in 1776, part of a remarkable year for Enlightenment inquiry.
 - [Declaration of Independence](../politics/declaration-of-independence.md) — Cook's departure from Plymouth came just weeks before the Declaration transformed the political world he was sailing away from.
+- [John Harrison and the Marine Chronometer](john-harrison-marine-chronometer.md) — Cook navigated by K1, a copy of Harrison's H4 sea watch; Harrison died in 1776 as the voyage got under way.
 <!-- END GENERATED: related -->

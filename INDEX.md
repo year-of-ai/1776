@@ -14,6 +14,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Lee Resolution | 1776-07-02 | [politics/lee-resolution.md](politics/lee-resolution.md) |
 | Declaration of Independence | 1776-07-04 | [politics/declaration-of-independence.md](politics/declaration-of-independence.md) |
 | Public Proclamation of the Declaration of Independence | 1776-07-08 | [politics/declaration-public-proclamation.md](politics/declaration-public-proclamation.md) |
+| The Founding of San Francisco | 1776-09-17 | [politics/founding-of-san-francisco-1776.md](politics/founding-of-san-francisco-1776.md) |
 | French Alliance & Diplomacy (1776–1778) | 1778-02-06 | [politics/french-alliance-1778.md](politics/french-alliance-1778.md) |
 
 ## Military Events
@@ -38,6 +39,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Topic | Date | File |
 |---|---|---|
 | Buffon's Natural History | 1776-01-01 | [science/buffon-natural-history.md](science/buffon-natural-history.md) |
+| John Harrison and the Marine Chronometer | 1776-03-24 | [science/john-harrison-marine-chronometer.md](science/john-harrison-marine-chronometer.md) |
 | Captain Cook's Third Voyage | 1776-07-12 | [science/captain-cook-third-voyage.md](science/captain-cook-third-voyage.md) |
 | David Hume's Death and Philosophical Legacy | 1776-08-25 | [science/david-hume-1776.md](science/david-hume-1776.md) |
 | Alessandro Volta's Discovery of Methane | 1776-11-01 | [science/volta-methane-1776.md](science/volta-methane-1776.md) |

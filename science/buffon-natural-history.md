@@ -54,4 +54,5 @@ Buffon's *Histoire naturelle* represented a shift in natural history from mere c
 - [Captain Cook's Third Voyage](captain-cook-third-voyage.md) — Cook's 1776 Pacific expedition shared the Enlightenment project of systematic global natural description.
 - [The Wealth of Nations](../economics/wealth-of-nations.md) — Adam Smith's 1776 synthesis, published the same year, applied empirical systematic analysis to political economy as Buffon did to nature.
 - [Virginia Declaration of Rights](../politics/virginia-declaration-of-rights.md) — Jefferson, who publicly engaged Buffon's claims about American nature, drew on the same Enlightenment empiricism.
+- [John Harrison and the Marine Chronometer](john-harrison-marine-chronometer.md) — Harrison's death in 1776 marked the era's other great empirical project: the precision measurement that solved the longitude problem.
 <!-- END GENERATED: related -->
