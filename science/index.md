@@ -10,6 +10,7 @@ Topics covering scientific advances and explorations of 1776.
 | [John Harrison and the Marine Chronometer](john-harrison-marine-chronometer.md) | The death on March 24, 1776 of the clockmaker who solved the longitude problem; his H4 sea watch and its copy K1 — carried by Captain Cook — founded modern marine navigation. |
 | [Captain Cook's Third Voyage](captain-cook-third-voyage.md) | James Cook's final Pacific expedition, departing Plymouth on July 12, 1776 aboard HMS Resolution and HMS Discovery to return Omai to the Pacific and search for the Northwest Passage. |
 | [David Hume's Death and Philosophical Legacy](david-hume-1776.md) | The death of the Scottish Enlightenment philosopher on August 25, 1776, and the empiricist legacy — Hume's Fork, the problem of causation, and the is-ought distinction — that reshaped Western philosophy. |
+| [David Bushnell's Turtle: The First Submarine Used in Combat](bushnells-turtle-1776.md) | The hand-powered submersible that on September 7, 1776 attacked HMS *Eagle* in New York Harbor — the first recorded use of a submarine in warfare, pioneering the screw propeller and water-ballast diving. |
 | [Alessandro Volta's Discovery of Methane](volta-methane-1776.md) | Volta's November 1776 identification of "inflammable air from marshes" at Lake Maggiore, prompted by Franklin's writings, founding the scientific study of methane and shaping his work in pneumatic chemistry. |
 
 <!-- END GENERATED: category-index -->

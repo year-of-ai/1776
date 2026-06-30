@@ -42,6 +42,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | John Harrison and the Marine Chronometer | 1776-03-24 | [science/john-harrison-marine-chronometer.md](science/john-harrison-marine-chronometer.md) |
 | Captain Cook's Third Voyage | 1776-07-12 | [science/captain-cook-third-voyage.md](science/captain-cook-third-voyage.md) |
 | David Hume's Death and Philosophical Legacy | 1776-08-25 | [science/david-hume-1776.md](science/david-hume-1776.md) |
+| David Bushnell's Turtle: The First Submarine Used in Combat | 1776-09-07 | [science/bushnells-turtle-1776.md](science/bushnells-turtle-1776.md) |
 | Alessandro Volta's Discovery of Methane | 1776-11-01 | [science/volta-methane-1776.md](science/volta-methane-1776.md) |
 
 ## Arts & Culture

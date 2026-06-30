@@ -56,6 +56,7 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Battle of Fort Washington](military/battle-of-fort-washington.md) | On November 16, 1776, Manhattan's last American fort fell, with nearly 2,900 troops captured — a crippling defeat that forced the retreat across New Jersey. |
 | [The Founding of San Francisco](politics/founding-of-san-francisco-1776.md) | Spain dedicated the Presidio (September 17, 1776) and Mission Dolores (October 9, 1776) on San Francisco Bay, founding the city and marking the northern limit of New Spain. |
 | [John Harrison and the Marine Chronometer](science/john-harrison-marine-chronometer.md) | The clockmaker who solved the longitude problem died March 24, 1776, as his H4-derived chronometer sailed with Captain Cook, founding modern marine navigation. |
+| [David Bushnell's *Turtle*](science/bushnells-turtle-1776.md) | On September 7, 1776, Sergeant Ezra Lee piloted Bushnell's hand-powered submersible against HMS *Eagle* in the first recorded use of a submarine in warfare. |
 
 ---
 
