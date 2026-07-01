@@ -10,5 +10,6 @@ Topics covering economic ideas and commercial developments of 1776.
 | [James Watt's Steam Engine](james-watt-steam-engine.md) | The first commercial installations of Watt's separate-condenser steam engine in 1776, with the Boulton & Watt partnership and patent extension, freeing industry from water power and accelerating the Industrial Revolution. |
 | [The Prohibitory Act and the Blockade of American Trade](prohibitory-act-1776.md) | Parliament's December 1775 act, effective through 1776, withdrew Crown protection and declared colonial ships forfeit as prize, driving Congress to open American ports and accelerating the move toward independence. |
 | [The Wealth of Nations](wealth-of-nations.md) | Adam Smith's foundational work of modern economics, published March 9, 1776, introducing division of labor, free markets, and a comprehensive critique of mercantilism. |
+| [The Model Treaty (Plan of 1776)](model-treaty-1776.md) | John Adams's commercial-treaty template, adopted by Congress September 17, 1776; the first blueprint of U.S. foreign policy and the basis of the 1778 Franco-American Treaty of Amity and Commerce. |
 
 <!-- END GENERATED: category-index -->

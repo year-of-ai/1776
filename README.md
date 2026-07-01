@@ -57,6 +57,8 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [The Founding of San Francisco](politics/founding-of-san-francisco-1776.md) | Spain dedicated the Presidio (September 17, 1776) and Mission Dolores (October 9, 1776) on San Francisco Bay, founding the city and marking the northern limit of New Spain. |
 | [John Harrison and the Marine Chronometer](science/john-harrison-marine-chronometer.md) | The clockmaker who solved the longitude problem died March 24, 1776, as his H4-derived chronometer sailed with Captain Cook, founding modern marine navigation. |
 | [David Bushnell's *Turtle*](science/bushnells-turtle-1776.md) | On September 7, 1776, Sergeant Ezra Lee piloted Bushnell's hand-powered submersible against HMS *Eagle* in the first recorded use of a submarine in warfare. |
+| [The Model Treaty (Plan of 1776)](economics/model-treaty-1776.md) | Congress adopted John Adams's commercial treaty template on September 17, 1776 — the first blueprint of United States foreign policy and the basis of the 1778 Franco-American commerce treaty. |
+| [Battle of Valcour Island](military/battle-of-valcour-island-1776.md) | On October 11, 1776, Benedict Arnold's Lake Champlain fleet was defeated but delayed Carleton's advance until 1777 — a tactical loss that proved a strategic American victory. |
 
 ---
 

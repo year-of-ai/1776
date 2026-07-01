@@ -29,6 +29,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Battle of Long Island | 1776-08-27 | [military/battle-of-long-island.md](military/battle-of-long-island.md) |
 | Battle of Harlem Heights | 1776-09-16 | [military/battle-of-harlem-heights.md](military/battle-of-harlem-heights.md) |
 | The Great Fire of New York (1776) | 1776-09-20 | [military/great-fire-of-new-york-1776.md](military/great-fire-of-new-york-1776.md) |
+| Battle of Valcour Island | 1776-10-11 | [military/battle-of-valcour-island-1776.md](military/battle-of-valcour-island-1776.md) |
 | Battle of White Plains | 1776-10-28 | [military/battle-of-white-plains.md](military/battle-of-white-plains.md) |
 | Battle of Fort Washington | 1776-11-16 | [military/battle-of-fort-washington.md](military/battle-of-fort-washington.md) |
 | Battle of Trenton | 1776-12-26 | [military/battle-of-trenton.md](military/battle-of-trenton.md) |
@@ -65,6 +66,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | James Watt's Steam Engine | 1776-01-01 | [economics/james-watt-steam-engine.md](economics/james-watt-steam-engine.md) |
 | The Prohibitory Act and the Blockade of American Trade | 1776-01-01 | [economics/prohibitory-act-1776.md](economics/prohibitory-act-1776.md) |
 | The Wealth of Nations | 1776-03-09 | [economics/wealth-of-nations.md](economics/wealth-of-nations.md) |
+| The Model Treaty (Plan of 1776) | 1776-09-17 | [economics/model-treaty-1776.md](economics/model-treaty-1776.md) |
 
 ## Key Figures
 → [Category index](people/index.md)
