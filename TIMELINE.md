@@ -19,6 +19,7 @@ A chronological index of notable events, works, and discoveries of the year 1776
 | 1776-03-09 | Adam Smith publishes *The Wealth of Nations*, founding classical economics | Economics & Trade | [economics/wealth-of-nations.md](economics/wealth-of-nations.md) |
 | 1776-03-24 | John Harrison, the clockmaker who solved the longitude problem with the marine chronometer, dies; his H4-derived watch sails with Captain Cook | Science & Discovery | [science/john-harrison-marine-chronometer.md](science/john-harrison-marine-chronometer.md) |
 | 1776-06-08 | The American invasion of Canada collapses at Trois-Rivières, forcing the Continental Army's withdrawal from Quebec Province after the 1775–1776 campaign | Military Events | [military/american-invasion-of-canada-1776.md](military/american-invasion-of-canada-1776.md) |
+| 1776-06-10 | Beaumarchais establishes Roderigue Hortalez et Cie, a fictitious trading house funneling covert French and Spanish arms to the American revolutionaries | Economics & Trade | [economics/roderigue-hortalez-company.md](economics/roderigue-hortalez-company.md) |
 | 1776-06-12 | Virginia Declaration of Rights adopted — first enumerated bill of rights in American history | Political Events | [politics/virginia-declaration-of-rights.md](politics/virginia-declaration-of-rights.md) |
 | 1776-06-28 | Battle of Sullivan's Island — Moultrie's palmetto-log fort repels a British fleet, saving Charleston and the South | Military Events | [military/battle-of-sullivans-island.md](military/battle-of-sullivans-island.md) |
 | 1776-06-28 | British naval operations establish Royal Navy supremacy along the American coast, enabling amphibious campaigns and blockade | Military Events | [military/british-naval-operations-1776.md](military/british-naval-operations-1776.md) |
@@ -45,6 +46,7 @@ A chronological index of notable events, works, and discoveries of the year 1776
 | 1776-11-10 | Lord George Germain, Secretary of State for the Colonies, directs British war strategy against the American rebellion | Key Figures | [people/lord-george-germain-1776.md](people/lord-george-germain-1776.md) |
 | 1776-11-16 | Battle of Fort Washington — Manhattan's last American fort falls; nearly 2,900 troops captured, forcing the retreat across New Jersey | Military Events | [military/battle-of-fort-washington.md](military/battle-of-fort-washington.md) |
 | 1776-12-26 | Battle of Trenton — Washington crosses the Delaware; Hessian garrison captured | Military Events | [military/battle-of-trenton.md](military/battle-of-trenton.md) |
+| 1776-12-26 | George Washington in 1776 — after liberating Boston and losing New York, the commander-in-chief's Delaware crossing and Trenton victory reverse the Revolution's darkest year | Key Figures | [people/george-washington-1776.md](people/george-washington-1776.md) |
 | 1778-02-06 | France and the United States sign the Treaty of Alliance and Treaty of Amity and Commerce — the first U.S. alliance, rooted in covert French aid begun in 1776 | Political Events | [politics/french-alliance-1778.md](politics/french-alliance-1778.md) |
 
 <!-- END GENERATED: timeline -->

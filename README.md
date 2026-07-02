@@ -59,6 +59,8 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [David Bushnell's *Turtle*](science/bushnells-turtle-1776.md) | On September 7, 1776, Sergeant Ezra Lee piloted Bushnell's hand-powered submersible against HMS *Eagle* in the first recorded use of a submarine in warfare. |
 | [The Model Treaty (Plan of 1776)](economics/model-treaty-1776.md) | Congress adopted John Adams's commercial treaty template on September 17, 1776 — the first blueprint of United States foreign policy and the basis of the 1778 Franco-American commerce treaty. |
 | [Battle of Valcour Island](military/battle-of-valcour-island-1776.md) | On October 11, 1776, Benedict Arnold's Lake Champlain fleet was defeated but delayed Carleton's advance until 1777 — a tactical loss that proved a strategic American victory. |
+| [George Washington in 1776](people/george-washington-1776.md) | The commander-in-chief lost New York but preserved his army and struck at Trenton on December 26, 1776, reversing the Revolution's darkest year. |
+| [Roderigue Hortalez et Cie](economics/roderigue-hortalez-company.md) | Beaumarchais's fictitious 1776 trading house funneled covert French and Spanish arms to America, sustaining the Continental Army before the 1778 alliance. |
 
 ---
 

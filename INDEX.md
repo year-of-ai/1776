@@ -66,6 +66,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | James Watt's Steam Engine | 1776-01-01 | [economics/james-watt-steam-engine.md](economics/james-watt-steam-engine.md) |
 | The Prohibitory Act and the Blockade of American Trade | 1776-01-01 | [economics/prohibitory-act-1776.md](economics/prohibitory-act-1776.md) |
 | The Wealth of Nations | 1776-03-09 | [economics/wealth-of-nations.md](economics/wealth-of-nations.md) |
+| Roderigue Hortalez et Cie | 1776-06-10 | [economics/roderigue-hortalez-company.md](economics/roderigue-hortalez-company.md) |
 | The Model Treaty (Plan of 1776) | 1776-09-17 | [economics/model-treaty-1776.md](economics/model-treaty-1776.md) |
 
 ## Key Figures
@@ -79,5 +80,6 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Thomas Jefferson in 1776 | 1776-07-04 | [people/thomas-jefferson-1776.md](people/thomas-jefferson-1776.md) |
 | Benjamin Franklin & 1776 Diplomacy | 1776-10-26 | [people/benjamin-franklin-1776.md](people/benjamin-franklin-1776.md) |
 | Lord George Germain: Britain's War Minister | 1776-11-10 | [people/lord-george-germain-1776.md](people/lord-george-germain-1776.md) |
+| George Washington in 1776 | 1776-12-26 | [people/george-washington-1776.md](people/george-washington-1776.md) |
 
 <!-- END GENERATED: master-index -->
