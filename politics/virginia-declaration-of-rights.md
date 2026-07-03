@@ -34,4 +34,5 @@ The Virginia Declaration of Rights was the first enumerated bill of rights appen
 - [Declaration of Independence](declaration-of-independence.md) — Jefferson borrowed directly from the Virginia Declaration's preamble in drafting the Declaration of Independence.
 - [Thomas Paine](../people/thomas-paine.md) — *Common Sense* (January 1776) articulated the same natural-rights principles as Mason's declaration.
 - [Edward Gibbon's Decline and Fall (Vol. 1)](../arts/decline-and-fall-roman-empire.md) — Published the same year; the civic-virtue thesis resonated with Mason's republican framework.
+- [The Pennsylvania Constitution of 1776](pennsylvania-constitution-1776.md) — Prefaced by a declaration of rights modeled partly on Mason's, adopted three months later in Philadelphia.
 <!-- END GENERATED: related -->

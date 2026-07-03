@@ -15,6 +15,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Declaration of Independence | 1776-07-04 | [politics/declaration-of-independence.md](politics/declaration-of-independence.md) |
 | Public Proclamation of the Declaration of Independence | 1776-07-08 | [politics/declaration-public-proclamation.md](politics/declaration-public-proclamation.md) |
 | The Founding of San Francisco | 1776-09-17 | [politics/founding-of-san-francisco-1776.md](politics/founding-of-san-francisco-1776.md) |
+| The Pennsylvania Constitution of 1776 | 1776-09-28 | [politics/pennsylvania-constitution-1776.md](politics/pennsylvania-constitution-1776.md) |
 | French Alliance & Diplomacy (1776–1778) | 1778-02-06 | [politics/french-alliance-1778.md](politics/french-alliance-1778.md) |
 
 ## Military Events
@@ -78,6 +79,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Joseph Brant (Thayendanegea) in 1776 | 1776-07-01 | [people/joseph-brant.md](people/joseph-brant.md) |
 | John Adams & the 1776 Continental Congress | 1776-07-04 | [people/john-adams-1776.md](people/john-adams-1776.md) |
 | Thomas Jefferson in 1776 | 1776-07-04 | [people/thomas-jefferson-1776.md](people/thomas-jefferson-1776.md) |
+| Nathan Hale: The Continental Army's Martyr Spy | 1776-09-22 | [people/nathan-hale-1776.md](people/nathan-hale-1776.md) |
 | Benjamin Franklin & 1776 Diplomacy | 1776-10-26 | [people/benjamin-franklin-1776.md](people/benjamin-franklin-1776.md) |
 | Lord George Germain: Britain's War Minister | 1776-11-10 | [people/lord-george-germain-1776.md](people/lord-george-germain-1776.md) |
 | George Washington in 1776 | 1776-12-26 | [people/george-washington-1776.md](people/george-washington-1776.md) |

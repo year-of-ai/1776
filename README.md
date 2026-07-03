@@ -61,6 +61,8 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Battle of Valcour Island](military/battle-of-valcour-island-1776.md) | On October 11, 1776, Benedict Arnold's Lake Champlain fleet was defeated but delayed Carleton's advance until 1777 — a tactical loss that proved a strategic American victory. |
 | [George Washington in 1776](people/george-washington-1776.md) | The commander-in-chief lost New York but preserved his army and struck at Trenton on December 26, 1776, reversing the Revolution's darkest year. |
 | [Roderigue Hortalez et Cie](economics/roderigue-hortalez-company.md) | Beaumarchais's fictitious 1776 trading house funneled covert French and Spanish arms to America, sustaining the Continental Army before the 1778 alliance. |
+| [The Pennsylvania Constitution of 1776](politics/pennsylvania-constitution-1776.md) | Adopted September 28, 1776, the era's most democratic state charter created a unicameral legislature and no governor, a radical model later measured against the federal Constitution. |
+| [Nathan Hale](people/nathan-hale-1776.md) | The Continental Army officer hanged as a spy on September 22, 1776, became a founding martyr for his defiant last words on the New York gallows. |
 
 ---
 
