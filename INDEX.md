@@ -23,6 +23,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 
 | Topic | Date | File |
 |---|---|---|
+| Continental Navy Establishment and Operations in 1776 | 1776-03-03 | [military/continental-navy-1776.md](military/continental-navy-1776.md) |
 | American Invasion of Canada (1775–1776) | 1776-06-08 | [military/american-invasion-of-canada-1776.md](military/american-invasion-of-canada-1776.md) |
 | Battle of Sullivan's Island | 1776-06-28 | [military/battle-of-sullivans-island.md](military/battle-of-sullivans-island.md) |
 | British Naval Operations in 1776 | 1776-06-28 | [military/british-naval-operations-1776.md](military/british-naval-operations-1776.md) |
@@ -67,6 +68,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | James Watt's Steam Engine | 1776-01-01 | [economics/james-watt-steam-engine.md](economics/james-watt-steam-engine.md) |
 | The Prohibitory Act and the Blockade of American Trade | 1776-01-01 | [economics/prohibitory-act-1776.md](economics/prohibitory-act-1776.md) |
 | The Wealth of Nations | 1776-03-09 | [economics/wealth-of-nations.md](economics/wealth-of-nations.md) |
+| American Privateering Commissions and Early Operations in 1776 | 1776-03-23 | [economics/american-privateering-1776.md](economics/american-privateering-1776.md) |
 | Roderigue Hortalez et Cie | 1776-06-10 | [economics/roderigue-hortalez-company.md](economics/roderigue-hortalez-company.md) |
 | The Model Treaty (Plan of 1776) | 1776-09-17 | [economics/model-treaty-1776.md](economics/model-treaty-1776.md) |
 
@@ -79,6 +81,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Joseph Brant (Thayendanegea) in 1776 | 1776-07-01 | [people/joseph-brant.md](people/joseph-brant.md) |
 | John Adams & the 1776 Continental Congress | 1776-07-04 | [people/john-adams-1776.md](people/john-adams-1776.md) |
 | Thomas Jefferson in 1776 | 1776-07-04 | [people/thomas-jefferson-1776.md](people/thomas-jefferson-1776.md) |
+| Benjamin Rush | 1776-08-02 | [people/benjamin-rush.md](people/benjamin-rush.md) |
 | Nathan Hale: The Continental Army's Martyr Spy | 1776-09-22 | [people/nathan-hale-1776.md](people/nathan-hale-1776.md) |
 | Benjamin Franklin & 1776 Diplomacy | 1776-10-26 | [people/benjamin-franklin-1776.md](people/benjamin-franklin-1776.md) |
 | Lord George Germain: Britain's War Minister | 1776-11-10 | [people/lord-george-germain-1776.md](people/lord-george-germain-1776.md) |

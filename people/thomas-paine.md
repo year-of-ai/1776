@@ -37,4 +37,5 @@ Thomas Paine's *Common Sense* was the most widely circulated pamphlet of the Ame
 - [Battle of Trenton](../military/battle-of-trenton.md) — Paine's *American Crisis* was read to Washington's troops before the December 26 crossing and attack.
 - [Virginia Declaration of Rights](../politics/virginia-declaration-of-rights.md) — Mason's June 12 declaration articulated the same natural-rights framework as *Common Sense*.
 - [Phillis Wheatley and "To His Excellency General Washington"](../arts/phillis-wheatley-1776.md) — her ode to Washington ran in the *Pennsylvania Magazine* Paine edited, months after *Common Sense*.
+- [Benjamin Rush](benjamin-rush.md) — the physician who encouraged Paine to write *Common Sense*, suggested its title, and introduced him to its printer.
 <!-- END GENERATED: related -->

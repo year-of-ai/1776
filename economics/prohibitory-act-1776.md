@@ -60,6 +60,7 @@ The Prohibitory Act occupies a pivotal place in the economic and political histo
 - [British Naval Operations in 1776](../military/british-naval-operations-1776.md) — the Royal Navy force that enforced the act's seizure of American shipping.
 - [The British Empire in 1776: Global Reach and Colonies](../politics/british-empire-1776.md) — the imperial commercial system the act severed the colonies from.
 - [Declaration of Independence](../politics/declaration-of-independence.md) — which numbered the cutting off of colonial trade among its grievances against the Crown.
+- [American Privateering Commissions and Early Operations in 1776](american-privateering-1776.md) — the commerce-raiding response the blockade helped provoke, turning merchant ships into licensed raiders against British trade.
 <!-- END GENERATED: related -->
 
 ## Sources
