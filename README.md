@@ -66,6 +66,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Roderigue Hortalez et Cie](economics/roderigue-hortalez-company.md) | Beaumarchais's fictitious 1776 trading house funneled covert French and Spanish arms to America, sustaining the Continental Army before the 1778 alliance. |
 | [The Pennsylvania Constitution of 1776](politics/pennsylvania-constitution-1776.md) | Adopted September 28, 1776, the era's most democratic state charter created a unicameral legislature and no governor, a radical model later measured against the federal Constitution. |
 | [Nathan Hale](people/nathan-hale-1776.md) | The Continental Army officer hanged as a spy on September 22, 1776, became a founding martyr for his defiant last words on the New York gallows. |
+| [The Cherokee War of 1776](military/cherokee-war-1776.md) | Dragging Canoe's July 1776 attacks on the frontier triggered punitive expeditions that burned over 50 Cherokee towns and reshaped the southern backcountry. |
+| [The Halifax Resolves](politics/halifax-resolves-1776.md) | North Carolina's April 12, 1776 resolution was the first official colonial authorization for delegates to vote for independence. |
+| [Abigail Adams and the "Remember the Ladies" Letter](people/abigail-adams-1776.md) | Abigail Adams's March 31, 1776 letter urging John Adams to "Remember the Ladies" became an early landmark of American women's rights advocacy. |
 
 ---
 

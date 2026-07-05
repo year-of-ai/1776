@@ -10,6 +10,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Topic | Date | File |
 |---|---|---|
 | The British Empire in 1776 | 1776-01-01 | [politics/british-empire-1776.md](politics/british-empire-1776.md) |
+| The Halifax Resolves | 1776-04-12 | [politics/halifax-resolves-1776.md](politics/halifax-resolves-1776.md) |
 | Virginia Declaration of Rights | 1776-06-12 | [politics/virginia-declaration-of-rights.md](politics/virginia-declaration-of-rights.md) |
 | Lee Resolution | 1776-07-02 | [politics/lee-resolution.md](politics/lee-resolution.md) |
 | Declaration of Independence | 1776-07-04 | [politics/declaration-of-independence.md](politics/declaration-of-independence.md) |
@@ -27,6 +28,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | American Invasion of Canada (1775–1776) | 1776-06-08 | [military/american-invasion-of-canada-1776.md](military/american-invasion-of-canada-1776.md) |
 | Battle of Sullivan's Island | 1776-06-28 | [military/battle-of-sullivans-island.md](military/battle-of-sullivans-island.md) |
 | British Naval Operations in 1776 | 1776-06-28 | [military/british-naval-operations-1776.md](military/british-naval-operations-1776.md) |
+| The Cherokee War of 1776 | 1776-07-01 | [military/cherokee-war-1776.md](military/cherokee-war-1776.md) |
 | Hessian Troops & Foreign Mercenaries (1776–1783) | 1776-08-01 | [military/hessian-troops-1776.md](military/hessian-troops-1776.md) |
 | Battle of Long Island | 1776-08-27 | [military/battle-of-long-island.md](military/battle-of-long-island.md) |
 | Battle of Harlem Heights | 1776-09-16 | [military/battle-of-harlem-heights.md](military/battle-of-harlem-heights.md) |
@@ -78,6 +80,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Topic | Date | File |
 |---|---|---|
 | Thomas Paine | 1776-01-10 | [people/thomas-paine.md](people/thomas-paine.md) |
+| Abigail Adams and the "Remember the Ladies" Letter | 1776-03-31 | [people/abigail-adams-1776.md](people/abigail-adams-1776.md) |
 | Joseph Brant (Thayendanegea) in 1776 | 1776-07-01 | [people/joseph-brant.md](people/joseph-brant.md) |
 | John Adams & the 1776 Continental Congress | 1776-07-04 | [people/john-adams-1776.md](people/john-adams-1776.md) |
 | Thomas Jefferson in 1776 | 1776-07-04 | [people/thomas-jefferson-1776.md](people/thomas-jefferson-1776.md) |
