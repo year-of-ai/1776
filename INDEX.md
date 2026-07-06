@@ -15,6 +15,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Lee Resolution | 1776-07-02 | [politics/lee-resolution.md](politics/lee-resolution.md) |
 | Declaration of Independence | 1776-07-04 | [politics/declaration-of-independence.md](politics/declaration-of-independence.md) |
 | Public Proclamation of the Declaration of Independence | 1776-07-08 | [politics/declaration-public-proclamation.md](politics/declaration-public-proclamation.md) |
+| Staten Island Peace Conference | 1776-09-11 | [politics/staten-island-peace-conference-1776.md](politics/staten-island-peace-conference-1776.md) |
 | The Founding of San Francisco | 1776-09-17 | [politics/founding-of-san-francisco-1776.md](politics/founding-of-san-francisco-1776.md) |
 | The Pennsylvania Constitution of 1776 | 1776-09-28 | [politics/pennsylvania-constitution-1776.md](politics/pennsylvania-constitution-1776.md) |
 | French Alliance & Diplomacy (1776–1778) | 1778-02-06 | [politics/french-alliance-1778.md](politics/french-alliance-1778.md) |
@@ -31,6 +32,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | The Cherokee War of 1776 | 1776-07-01 | [military/cherokee-war-1776.md](military/cherokee-war-1776.md) |
 | Hessian Troops & Foreign Mercenaries (1776–1783) | 1776-08-01 | [military/hessian-troops-1776.md](military/hessian-troops-1776.md) |
 | Battle of Long Island | 1776-08-27 | [military/battle-of-long-island.md](military/battle-of-long-island.md) |
+| Battle of Kip's Bay | 1776-09-15 | [military/battle-of-kips-bay-1776.md](military/battle-of-kips-bay-1776.md) |
 | Battle of Harlem Heights | 1776-09-16 | [military/battle-of-harlem-heights.md](military/battle-of-harlem-heights.md) |
 | The Great Fire of New York (1776) | 1776-09-20 | [military/great-fire-of-new-york-1776.md](military/great-fire-of-new-york-1776.md) |
 | Battle of Valcour Island | 1776-10-11 | [military/battle-of-valcour-island-1776.md](military/battle-of-valcour-island-1776.md) |

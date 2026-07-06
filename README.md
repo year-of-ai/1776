@@ -69,6 +69,8 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [The Cherokee War of 1776](military/cherokee-war-1776.md) | Dragging Canoe's July 1776 attacks on the frontier triggered punitive expeditions that burned over 50 Cherokee towns and reshaped the southern backcountry. |
 | [The Halifax Resolves](politics/halifax-resolves-1776.md) | North Carolina's April 12, 1776 resolution was the first official colonial authorization for delegates to vote for independence. |
 | [Abigail Adams and the "Remember the Ladies" Letter](people/abigail-adams-1776.md) | Abigail Adams's March 31, 1776 letter urging John Adams to "Remember the Ladies" became an early landmark of American women's rights advocacy. |
+| [Staten Island Peace Conference](politics/staten-island-peace-conference-1776.md) | Howe's September 11, 1776 meeting with Franklin, Adams, and Rutledge collapsed since he lacked authority to recognize independence, ending hopes of a negotiated peace. |
+| [Battle of Kip's Bay](military/battle-of-kips-bay-1776.md) | British forces routed Connecticut militia in an amphibious landing on September 15, 1776, opening the way for the British occupation of New York City. |
 
 ---
 
