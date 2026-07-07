@@ -71,6 +71,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Abigail Adams and the "Remember the Ladies" Letter](people/abigail-adams-1776.md) | Abigail Adams's March 31, 1776 letter urging John Adams to "Remember the Ladies" became an early landmark of American women's rights advocacy. |
 | [Staten Island Peace Conference](politics/staten-island-peace-conference-1776.md) | Howe's September 11, 1776 meeting with Franklin, Adams, and Rutledge collapsed since he lacked authority to recognize independence, ending hopes of a negotiated peace. |
 | [Battle of Kip's Bay](military/battle-of-kips-bay-1776.md) | British forces routed Connecticut militia in an amphibious landing on September 15, 1776, opening the way for the British occupation of New York City. |
+| [John Hancock in 1776](people/john-hancock-1776.md) | As President of the Continental Congress, Hancock presided over the Declaration's adoption and signed it first in an oversized hand that became a byword for a signature. |
+| [Battle of Moore's Creek Bridge](military/battle-of-moores-creek-bridge-1776.md) | Patriot militia crushed a Loyalist Highlander force on February 27, 1776, the first major southern victory and a spur to North Carolina's Halifax Resolves. |
+| [David Garrick's Farewell and Sheridan's Drury Lane](arts/garrick-drury-lane-1776.md) | Actor-manager David Garrick gave his last performance on June 10, 1776, selling Drury Lane to a consortium led by playwright Richard Brinsley Sheridan. |
 
 ---
 

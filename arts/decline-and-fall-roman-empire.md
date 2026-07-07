@@ -36,4 +36,5 @@ The first volume of *The Decline and Fall*, published in February 1776, inaugura
 - [Mozart in 1776](mozart-1776.md) — Mozart's prolific 1776 output in Salzburg was another expression of Enlightenment cultural vitality in the same year.
 - [The Wealth of Nations](../economics/wealth-of-nations.md) — Smith's work appeared the same year and shared Gibbon's Enlightenment methodology of empirical inquiry over received authority.
 - [Virginia Declaration of Rights](../politics/virginia-declaration-of-rights.md) — Mason's declaration invoked the same civic-virtue principles that Gibbon traced through the history of Rome.
+- [David Garrick's Farewell and Sheridan's Drury Lane (1776)](garrick-drury-lane-1776.md) — A parallel landmark in the London cultural world of 1776.
 <!-- END GENERATED: related -->

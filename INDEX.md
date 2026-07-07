@@ -25,6 +25,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 
 | Topic | Date | File |
 |---|---|---|
+| Battle of Moore's Creek Bridge | 1776-02-27 | [military/battle-of-moores-creek-bridge-1776.md](military/battle-of-moores-creek-bridge-1776.md) |
 | Continental Navy Establishment and Operations in 1776 | 1776-03-03 | [military/continental-navy-1776.md](military/continental-navy-1776.md) |
 | American Invasion of Canada (1775–1776) | 1776-06-08 | [military/american-invasion-of-canada-1776.md](military/american-invasion-of-canada-1776.md) |
 | Battle of Sullivan's Island | 1776-06-28 | [military/battle-of-sullivans-island.md](military/battle-of-sullivans-island.md) |
@@ -61,6 +62,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Haydn's Autobiographical Sketch of 1776 | 1776-01-01 | [arts/haydn-1776-autobiographical-sketch.md](arts/haydn-1776-autobiographical-sketch.md) |
 | Edward Gibbon's Decline and Fall (Vol. 1) | 1776-02-17 | [arts/decline-and-fall-roman-empire.md](arts/decline-and-fall-roman-empire.md) |
 | Phillis Wheatley and "To His Excellency General Washington" | 1776-03-01 | [arts/phillis-wheatley-1776.md](arts/phillis-wheatley-1776.md) |
+| David Garrick's Farewell and Sheridan's Drury Lane (1776) | 1776-06-10 | [arts/garrick-drury-lane-1776.md](arts/garrick-drury-lane-1776.md) |
 | Scottish Enlightenment and American Revolutionary Thought | 1776-07-04 | [arts/scottish-enlightenment-1776.md](arts/scottish-enlightenment-1776.md) |
 
 ## Economics & Trade
@@ -86,6 +88,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Joseph Brant (Thayendanegea) in 1776 | 1776-07-01 | [people/joseph-brant.md](people/joseph-brant.md) |
 | John Adams & the 1776 Continental Congress | 1776-07-04 | [people/john-adams-1776.md](people/john-adams-1776.md) |
 | Thomas Jefferson in 1776 | 1776-07-04 | [people/thomas-jefferson-1776.md](people/thomas-jefferson-1776.md) |
+| John Hancock in 1776 | 1776-07-04 | [people/john-hancock-1776.md](people/john-hancock-1776.md) |
 | Benjamin Rush | 1776-08-02 | [people/benjamin-rush.md](people/benjamin-rush.md) |
 | Nathan Hale: The Continental Army's Martyr Spy | 1776-09-22 | [people/nathan-hale-1776.md](people/nathan-hale-1776.md) |
 | Benjamin Franklin & 1776 Diplomacy | 1776-10-26 | [people/benjamin-franklin-1776.md](people/benjamin-franklin-1776.md) |

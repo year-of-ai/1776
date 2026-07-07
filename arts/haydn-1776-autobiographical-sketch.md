@@ -53,6 +53,7 @@ His continued productivity and innovation during 1776 contributed to the constru
 - [Mozart in 1776](mozart-1776.md) — Mozart's contemporaneous compositions and travels during the same year.
 - [Edward Gibbon's Decline and Fall (Vol. 1)](decline-and-fall-roman-empire.md) — another landmark cultural production of 1776.
 - [David Hume's Death and Philosophical Legacy](../science/david-hume-1776.md) — a parallel case of an Enlightenment figure reflecting on his own legacy in 1776.
+- [David Garrick's Farewell and Sheridan's Drury Lane (1776)](garrick-drury-lane-1776.md) — the same year's turning point on the English stage.
 <!-- END GENERATED: related -->
 
 ## Sources
