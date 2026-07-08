@@ -1,6 +1,6 @@
 ---
 title: "Thomas Paine"
-date: "1776-01-10"
+date: 1776-01-10
 category: "Key Figures"
 ---
 

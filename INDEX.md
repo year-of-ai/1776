@@ -10,6 +10,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Topic | Date | File |
 |---|---|---|
 | The British Empire in 1776 | 1776-01-01 | [politics/british-empire-1776.md](politics/british-empire-1776.md) |
+| The New Hampshire Constitution of 1776 | 1776-01-05 | [politics/new-hampshire-constitution-1776.md](politics/new-hampshire-constitution-1776.md) |
 | The Halifax Resolves | 1776-04-12 | [politics/halifax-resolves-1776.md](politics/halifax-resolves-1776.md) |
 | Virginia Declaration of Rights | 1776-06-12 | [politics/virginia-declaration-of-rights.md](politics/virginia-declaration-of-rights.md) |
 | Lee Resolution | 1776-07-02 | [politics/lee-resolution.md](politics/lee-resolution.md) |

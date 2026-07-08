@@ -1,6 +1,6 @@
 ---
 title: "Edward Gibbon's The History of the Decline and Fall of the Roman Empire (Vol. 1)"
-date: "1776-02-17"
+date: 1776-02-17
 category: "Arts & Culture"
 ---
 

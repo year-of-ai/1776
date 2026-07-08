@@ -1,6 +1,6 @@
 ---
 title: Benjamin Rush
-date: 1776
+date: 1776-01-01
 category: Key Figures
 ---
 

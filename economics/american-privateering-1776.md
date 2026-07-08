@@ -1,6 +1,6 @@
 ---
 title: American Privateering Commissions and Early Operations in 1776
-date: 1776
+date: 1776-01-01
 category: Economics & Trade
 ---
 

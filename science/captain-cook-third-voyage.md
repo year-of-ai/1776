@@ -1,6 +1,6 @@
 ---
 title: "Captain Cook's Third Voyage"
-date: "1776-07-12"
+date: 1776-07-12
 category: "Science & Discovery"
 ---
 
