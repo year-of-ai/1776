@@ -16,6 +16,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Lee Resolution | 1776-07-02 | [politics/lee-resolution.md](politics/lee-resolution.md) |
 | Declaration of Independence | 1776-07-04 | [politics/declaration-of-independence.md](politics/declaration-of-independence.md) |
 | Public Proclamation of the Declaration of Independence | 1776-07-08 | [politics/declaration-public-proclamation.md](politics/declaration-public-proclamation.md) |
+| Articles of Confederation: America's First Constitution | 1776-07-12 | [politics/articles-of-confederation-1776.md](politics/articles-of-confederation-1776.md) |
 | Staten Island Peace Conference | 1776-09-11 | [politics/staten-island-peace-conference-1776.md](politics/staten-island-peace-conference-1776.md) |
 | The Founding of San Francisco | 1776-09-17 | [politics/founding-of-san-francisco-1776.md](politics/founding-of-san-francisco-1776.md) |
 | The Pennsylvania Constitution of 1776 | 1776-09-28 | [politics/pennsylvania-constitution-1776.md](politics/pennsylvania-constitution-1776.md) |
@@ -86,8 +87,10 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 |---|---|---|
 | Thomas Paine | 1776-01-10 | [people/thomas-paine.md](people/thomas-paine.md) |
 | Abigail Adams and the "Remember the Ladies" Letter | 1776-03-31 | [people/abigail-adams-1776.md](people/abigail-adams-1776.md) |
+| General William Howe: British Commander-in-Chief in America | 1776-05-01 | [people/general-william-howe-1776.md](people/general-william-howe-1776.md) |
 | Joseph Brant (Thayendanegea) in 1776 | 1776-07-01 | [people/joseph-brant.md](people/joseph-brant.md) |
 | John Adams & the 1776 Continental Congress | 1776-07-04 | [people/john-adams-1776.md](people/john-adams-1776.md) |
+| Samuel Adams: The Organizer of the Revolution | 1776-07-04 | [people/samuel-adams-1776.md](people/samuel-adams-1776.md) |
 | Thomas Jefferson in 1776 | 1776-07-04 | [people/thomas-jefferson-1776.md](people/thomas-jefferson-1776.md) |
 | John Hancock in 1776 | 1776-07-04 | [people/john-hancock-1776.md](people/john-hancock-1776.md) |
 | Benjamin Rush | 1776-08-02 | [people/benjamin-rush.md](people/benjamin-rush.md) |

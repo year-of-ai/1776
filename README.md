@@ -75,6 +75,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Battle of Moore's Creek Bridge](military/battle-of-moores-creek-bridge-1776.md) | Patriot militia crushed a Loyalist Highlander force on February 27, 1776, the first major southern victory and a spur to North Carolina's Halifax Resolves. |
 | [David Garrick's Farewell and Sheridan's Drury Lane](arts/garrick-drury-lane-1776.md) | Actor-manager David Garrick gave his last performance on June 10, 1776, selling Drury Lane to a consortium led by playwright Richard Brinsley Sheridan. |
 | [The New Hampshire Constitution of 1776](politics/new-hampshire-constitution-1776.md) | Promulgated January 5, 1776, it was the first written constitution adopted by an American colony, replacing royal government six months before the Declaration of Independence. |
+| [General William Howe](people/general-william-howe-1776.md) | Britain's commander-in-chief won every major 1776 engagement yet his hesitations preserved the American cause, enabling later victories at Trenton and Saratoga. |
+| [Samuel Adams: Organizer of the Revolution](people/samuel-adams-1776.md) | The Massachusetts delegate's committees of correspondence and relentless organizing translated colonial grievance into independence, making him the Revolution's indispensable behind-the-scenes architect. |
+| [Articles of Confederation](politics/articles-of-confederation-1776.md) | Drafted from June 12, 1776 under John Dickinson, America's first constitution enshrined state sovereignty and a near-powerless Congress, lessons that shaped the 1787 Constitution. |
 
 ---
 

@@ -17,5 +17,6 @@ Topics covering political developments, declarations, constitutions, and governa
 | [The Founding of San Francisco](founding-of-san-francisco-1776.md) | Spain's dedication of the Presidio (September 17, 1776) and Mission Dolores (October 9, 1776) on San Francisco Bay — the northernmost outpost of New Spain, born of the Anza overland expedition. |
 | [The Pennsylvania Constitution of 1776](pennsylvania-constitution-1776.md) | The most democratic state charter of the Revolution, adopted September 28, 1776 — a unicameral legislature, a plural executive with no governor, and broad taxpayer suffrage, later a model for Vermont and French reformers. |
 | [French Alliance & Diplomacy (1776–1778)](french-alliance-1778.md) | Benjamin Franklin's mission to France — rooted in covert aid from May 1776 — culminated in the Treaty of Alliance of February 6, 1778, the first U.S. treaty of alliance and a decisive turning point of the Revolutionary War. |
+| [Articles of Confederation: America's First Constitution](articles-of-confederation-1776.md) | America's first constitution — drafted by John Dickinson's thirteen-member committee from June 12, 1776, presented July 12, and adopted November 15, 1777 — enshrining state sovereignty and a Congress without taxing power, whose weaknesses shaped the 1787 federal Constitution. |
 
 <!-- END GENERATED: category-index -->
