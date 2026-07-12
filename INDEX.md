@@ -29,6 +29,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 |---|---|---|
 | Battle of Moore's Creek Bridge | 1776-02-27 | [military/battle-of-moores-creek-bridge-1776.md](military/battle-of-moores-creek-bridge-1776.md) |
 | Continental Navy Establishment and Operations in 1776 | 1776-03-03 | [military/continental-navy-1776.md](military/continental-navy-1776.md) |
+| Fortification of Dorchester Heights | 1776-03-04 | [military/fortification-of-dorchester-heights-1776.md](military/fortification-of-dorchester-heights-1776.md) |
 | American Invasion of Canada (1775–1776) | 1776-06-08 | [military/american-invasion-of-canada-1776.md](military/american-invasion-of-canada-1776.md) |
 | Battle of Sullivan's Island | 1776-06-28 | [military/battle-of-sullivans-island.md](military/battle-of-sullivans-island.md) |
 | British Naval Operations in 1776 | 1776-06-28 | [military/british-naval-operations-1776.md](military/british-naval-operations-1776.md) |
@@ -64,6 +65,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Haydn's Autobiographical Sketch of 1776 | 1776-01-01 | [arts/haydn-1776-autobiographical-sketch.md](arts/haydn-1776-autobiographical-sketch.md) |
 | Edward Gibbon's Decline and Fall (Vol. 1) | 1776-02-17 | [arts/decline-and-fall-roman-empire.md](arts/decline-and-fall-roman-empire.md) |
 | Phillis Wheatley and "To His Excellency General Washington" | 1776-03-01 | [arts/phillis-wheatley-1776.md](arts/phillis-wheatley-1776.md) |
+| Founding of the Bolshoi Theatre | 1776-03-28 | [arts/bolshoi-theatre-1776.md](arts/bolshoi-theatre-1776.md) |
 | David Garrick's Farewell and Sheridan's Drury Lane (1776) | 1776-06-10 | [arts/garrick-drury-lane-1776.md](arts/garrick-drury-lane-1776.md) |
 | Scottish Enlightenment and American Revolutionary Thought | 1776-07-04 | [arts/scottish-enlightenment-1776.md](arts/scottish-enlightenment-1776.md) |
 

@@ -34,4 +34,5 @@ Garrick's retirement closed the era of the actor-manager whose personal celebrit
 - [Edward Gibbon's Decline and Fall (Vol. 1)](decline-and-fall-roman-empire.md) — Another landmark of 1776 British literary and cultural life.
 - [Haydn's Autobiographical Sketch of 1776](haydn-1776-autobiographical-sketch.md) — A contemporary reflection on artistic achievement in the same year.
 - [Mozart in 1776](mozart-1776.md) — The year's parallel milestones in Continental music.
+- [Founding of the Bolshoi Theatre](bolshoi-theatre-1776.md) — The March 1776 founding of Moscow's great theatre, a parallel in European theatre history.
 <!-- END GENERATED: related -->

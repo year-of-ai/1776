@@ -78,6 +78,8 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [General William Howe](people/general-william-howe-1776.md) | Britain's commander-in-chief won every major 1776 engagement yet his hesitations preserved the American cause, enabling later victories at Trenton and Saratoga. |
 | [Samuel Adams: Organizer of the Revolution](people/samuel-adams-1776.md) | The Massachusetts delegate's committees of correspondence and relentless organizing translated colonial grievance into independence, making him the Revolution's indispensable behind-the-scenes architect. |
 | [Articles of Confederation](politics/articles-of-confederation-1776.md) | Drafted from June 12, 1776 under John Dickinson, America's first constitution enshrined state sovereignty and a near-powerless Congress, lessons that shaped the 1787 Constitution. |
+| [Fortification of Dorchester Heights](military/fortification-of-dorchester-heights-1776.md) | Washington's overnight fortification above Boston, armed with Knox's Ticonderoga cannon, forced the British to evacuate on March 17, 1776, ending the eleven-month siege. |
+| [Founding of the Bolshoi Theatre](arts/bolshoi-theatre-1776.md) | Catherine the Great's March 28, 1776 charter to Prince Urusov founded the Moscow company that became the Bolshoi, among the world's oldest performing-arts institutions. |
 
 ---
 
