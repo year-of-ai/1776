@@ -14,6 +14,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | The Halifax Resolves | 1776-04-12 | [politics/halifax-resolves-1776.md](politics/halifax-resolves-1776.md) |
 | Virginia Declaration of Rights | 1776-06-12 | [politics/virginia-declaration-of-rights.md](politics/virginia-declaration-of-rights.md) |
 | Lee Resolution | 1776-07-02 | [politics/lee-resolution.md](politics/lee-resolution.md) |
+| The New Jersey Constitution of 1776 | 1776-07-02 | [politics/new-jersey-constitution-1776.md](politics/new-jersey-constitution-1776.md) |
 | Declaration of Independence | 1776-07-04 | [politics/declaration-of-independence.md](politics/declaration-of-independence.md) |
 | Public Proclamation of the Declaration of Independence | 1776-07-08 | [politics/declaration-public-proclamation.md](politics/declaration-public-proclamation.md) |
 | Articles of Confederation: America's First Constitution | 1776-07-12 | [politics/articles-of-confederation-1776.md](politics/articles-of-confederation-1776.md) |
