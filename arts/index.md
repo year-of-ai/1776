@@ -13,5 +13,6 @@ Topics covering literature, music, and cultural works of 1776.
 | [Phillis Wheatley and "To His Excellency General Washington"](phillis-wheatley-1776.md) | Wheatley's ode to George Washington, composed October 1775 and published in the *Pennsylvania Magazine* in April 1776, a landmark of early African American letters and Revolutionary verse. |
 | [David Garrick's Farewell and Sheridan's Drury Lane (1776)](garrick-drury-lane-1776.md) | David Garrick's June 10, 1776 farewell performance and the sale of his Drury Lane patent share to a consortium led by Richard Brinsley Sheridan, closing the era of the actor-manager at Britain's leading playhouse. |
 | [Scottish Enlightenment and American Revolutionary Thought](scottish-enlightenment-1776.md) | The convergence in 1776 of Adam Smith's *Wealth of Nations*, David Hume's death, and John Witherspoon's Declaration signature, tracing how Scottish moral philosophy and political science underpinned American revolutionary ideology. |
+| [Thomas Paine's The American Crisis, Number I](american-crisis-1776.md) | Paine's December 19, 1776 pamphlet, written during the retreat across New Jersey and opening "These are the times that try men's souls," which rallied the army and civilians before the Battle of Trenton. |
 
 <!-- END GENERATED: category-index -->

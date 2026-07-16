@@ -69,6 +69,7 @@ A complete topic index grouped by category. See also [TIMELINE.md](TIMELINE.md) 
 | Founding of the Bolshoi Theatre | 1776-03-28 | [arts/bolshoi-theatre-1776.md](arts/bolshoi-theatre-1776.md) |
 | David Garrick's Farewell and Sheridan's Drury Lane (1776) | 1776-06-10 | [arts/garrick-drury-lane-1776.md](arts/garrick-drury-lane-1776.md) |
 | Scottish Enlightenment and American Revolutionary Thought | 1776-07-04 | [arts/scottish-enlightenment-1776.md](arts/scottish-enlightenment-1776.md) |
+| Thomas Paine's The American Crisis, Number I | 1776-12-19 | [arts/american-crisis-1776.md](arts/american-crisis-1776.md) |
 
 ## Economics & Trade
 → [Category index](economics/index.md)

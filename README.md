@@ -81,6 +81,7 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Fortification of Dorchester Heights](military/fortification-of-dorchester-heights-1776.md) | Washington's overnight fortification above Boston, armed with Knox's Ticonderoga cannon, forced the British to evacuate on March 17, 1776, ending the eleven-month siege. |
 | [Founding of the Bolshoi Theatre](arts/bolshoi-theatre-1776.md) | Catherine the Great's March 28, 1776 charter to Prince Urusov founded the Moscow company that became the Bolshoi, among the world's oldest performing-arts institutions. |
 | [The New Jersey Constitution of 1776](politics/new-jersey-constitution-1776.md) | Adopted July 2, 1776, its broad £50 franchise made New Jersey the only Revolutionary state where women legally voted, until repeal in 1807. |
+| [Thomas Paine's *The American Crisis*](arts/american-crisis-1776.md) | Paine's December 19, 1776 pamphlet, opening "These are the times that try men's souls," rallied the army during the retreat before the Battle of Trenton. |
 
 ---
 
