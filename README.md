@@ -88,6 +88,7 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Founding of the Bolshoi Theatre]({{ '/news/arts/bolshoi-theatre-1776/' | relative_url }}) | Catherine the Great's March 28, 1776 charter to Prince Urusov founded the Moscow company that became the Bolshoi, among the world's oldest performing-arts institutions. |
 | [The New Jersey Constitution of 1776]({{ '/news/politics/new-jersey-constitution-1776/' | relative_url }}) | Adopted July 2, 1776, its broad £50 franchise made New Jersey the only Revolutionary state where women legally voted, until repeal in 1807. |
 | [Thomas Paine's *The American Crisis*]({{ '/news/arts/american-crisis-1776/' | relative_url }}) | Paine's December 19, 1776 pamphlet, opening "These are the times that try men's souls," rallied the army during the retreat before the Battle of Trenton. |
+| [David Rittenhouse in 1776]({{ '/news/science/david-rittenhouse-1776/' | relative_url }}) | America's foremost astronomer set science aside in 1776 to serve as Committee of Safety engineer and to help frame the Pennsylvania Constitution of 1776. |
 
 ---
 
