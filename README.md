@@ -89,6 +89,8 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [The New Jersey Constitution of 1776]({{ '/news/politics/new-jersey-constitution-1776/' | relative_url }}) | Adopted July 2, 1776, its broad £50 franchise made New Jersey the only Revolutionary state where women legally voted, until repeal in 1807. |
 | [Thomas Paine's *The American Crisis*]({{ '/news/arts/american-crisis-1776/' | relative_url }}) | Paine's December 19, 1776 pamphlet, opening "These are the times that try men's souls," rallied the army during the retreat before the Battle of Trenton. |
 | [David Rittenhouse in 1776]({{ '/news/science/david-rittenhouse-1776/' | relative_url }}) | America's foremost astronomer set science aside in 1776 to serve as Committee of Safety engineer and to help frame the Pennsylvania Constitution of 1776. |
+| [Henry Knox in 1776]({{ '/news/people/henry-knox-1776/' | relative_url }}) | The self-taught bookseller hauled Ticonderoga's cannon to Boston and fortified Dorchester Heights, forcing the British evacuation and becoming Washington's chief artillerist. |
+| [Button Gwinnett in 1776]({{ '/news/people/button-gwinnett-1776/' | relative_url }}) | The Georgia merchant-planter signed the Declaration in August 1776, then led the state's fractious government before dying in an 1777 duel. |
 
 ---
 
