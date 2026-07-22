@@ -91,6 +91,8 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [David Rittenhouse in 1776]({{ '/news/science/david-rittenhouse-1776/' | relative_url }}) | America's foremost astronomer set science aside in 1776 to serve as Committee of Safety engineer and to help frame the Pennsylvania Constitution of 1776. |
 | [Henry Knox in 1776]({{ '/news/people/henry-knox-1776/' | relative_url }}) | The self-taught bookseller hauled Ticonderoga's cannon to Boston and fortified Dorchester Heights, forcing the British evacuation and becoming Washington's chief artillerist. |
 | [Button Gwinnett in 1776]({{ '/news/people/button-gwinnett-1776/' | relative_url }}) | The Georgia merchant-planter signed the Declaration in August 1776, then led the state's fractious government before dying in an 1777 duel. |
+| [Nathanael Greene in 1776]({{ '/news/people/nathanael-greene-1776/' | relative_url }}) | Promoted major general on August 9, 1776, Greene commanded on Long Island and advised holding Fort Washington before leading a column at Trenton. |
+| [The Burning of Norfolk, Virginia]({{ '/news/military/burning-of-norfolk-1776/' | relative_url }}) | Lord Dunmore's January 1, 1776 bombardment and the ensuing fires destroyed Virginia's largest port, ending royal government there and galvanizing support for independence. |
 
 ---
 
