@@ -93,6 +93,7 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Button Gwinnett in 1776]({{ '/news/people/button-gwinnett-1776/' | relative_url }}) | The Georgia merchant-planter signed the Declaration in August 1776, then led the state's fractious government before dying in an 1777 duel. |
 | [Nathanael Greene in 1776]({{ '/news/people/nathanael-greene-1776/' | relative_url }}) | Promoted major general on August 9, 1776, Greene commanded on Long Island and advised holding Fort Washington before leading a column at Trenton. |
 | [The Burning of Norfolk, Virginia]({{ '/news/military/burning-of-norfolk-1776/' | relative_url }}) | Lord Dunmore's January 1, 1776 bombardment and the ensuing fires destroyed Virginia's largest port, ending royal government there and galvanizing support for independence. |
+| [The Founding of Phi Beta Kappa]({{ '/news/arts/phi-beta-kappa-1776/' | relative_url }}) | Founded December 5, 1776 at William & Mary, it was the first American collegiate Greek-letter society, the template for later fraternities and honor societies. |
 
 ---
 
