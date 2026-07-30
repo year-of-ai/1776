@@ -2,6 +2,7 @@
 title: The Year 1776 — Knowledge Index
 permalink: "/knowledge-index/"
 description: The full 1776 knowledge table — every notable event, linked to its article.
+preview: /images/previews/the-year-1776-knowledge-index.svg
 ---
 
 # The Year 1776
@@ -80,6 +81,7 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Battle of Kip's Bay]({{ '/news/military/battle-of-kips-bay-1776/' | relative_url }}) | British forces routed Connecticut militia in an amphibious landing on September 15, 1776, opening the way for the British occupation of New York City. |
 | [John Hancock in 1776]({{ '/news/people/john-hancock-1776/' | relative_url }}) | As President of the Continental Congress, Hancock presided over the Declaration's adoption and signed it first in an oversized hand that became a byword for a signature. |
 | [Battle of Moore's Creek Bridge]({{ '/news/military/battle-of-moores-creek-bridge-1776/' | relative_url }}) | Patriot militia crushed a Loyalist Highlander force on February 27, 1776, the first major southern victory and a spur to North Carolina's Halifax Resolves. |
+| [British Opposition to the War: Edmund Burke & Charles James Fox]({{ '/news/politics/british-opposition-1776/' | relative_url }}) | In 1776, Whig politicians Edmund Burke and Charles James Fox emerged as leading vocal opponents of the American War in Parliament, arguing against taxation schemes and eventually advocating for peace. |
 | [David Garrick's Farewell and Sheridan's Drury Lane]({{ '/news/arts/garrick-drury-lane-1776/' | relative_url }}) | Actor-manager David Garrick gave his last performance on June 10, 1776, selling Drury Lane to a consortium led by playwright Richard Brinsley Sheridan. |
 | [The New Hampshire Constitution of 1776]({{ '/news/politics/new-hampshire-constitution-1776/' | relative_url }}) | Promulgated January 5, 1776, it was the first written constitution adopted by an American colony, replacing royal government six months before the Declaration of Independence. |
 | [General William Howe]({{ '/news/people/general-william-howe-1776/' | relative_url }}) | Britain's commander-in-chief won every major 1776 engagement yet his hesitations preserved the American cause, enabling later victories at Trenton and Saratoga. |
@@ -96,7 +98,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Button Gwinnett in 1776]({{ '/news/people/button-gwinnett-1776/' | relative_url }}) | The Georgia merchant-planter signed the Declaration in August 1776, then led the state's fractious government before dying in an 1777 duel. |
 | [Nathanael Greene in 1776]({{ '/news/people/nathanael-greene-1776/' | relative_url }}) | Promoted major general on August 9, 1776, Greene commanded on Long Island and advised holding Fort Washington before leading a column at Trenton. |
 | [The Burning of Norfolk, Virginia]({{ '/news/military/burning-of-norfolk-1776/' | relative_url }}) | Lord Dunmore's January 1, 1776 bombardment and the ensuing fires destroyed Virginia's largest port, ending royal government there and galvanizing support for independence. |
+| [Dunmore's Ethiopian Regiment]({{ '/news/military/dunmores-ethiopian-regiment/' | relative_url }}) | Lord Dunmore's November 1775 proclamation offering freedom to enslaved people who joined British forces created the first large-scale Black military unit in North America; by 1776, disease killed hundreds despite military participation in Norfolk, Long Island, and elsewhere. |
 | [The Founding of Phi Beta Kappa]({{ '/news/arts/phi-beta-kappa-1776/' | relative_url }}) | Founded December 5, 1776 at William & Mary, it was the first American collegiate Greek-letter society, the template for later fraternities and honor societies. |
+| [Smallpox Inoculation in the Continental Army]({{ '/news/science/smallpox-inoculation-continental-army/' | relative_url }}) | Washington's February 1777 mandate requiring inoculation of all Continental Army troops, rooted in the disease crisis of 1776, established the first mass immunization policy in American military history and advanced public health strategy as military necessity. |
 
 ---
 

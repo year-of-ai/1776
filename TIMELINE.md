@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Timeline of 1776
+preview: /images/previews/timeline-of-1776.svg
 permalink: "/TIMELINE/"
 ---
 
@@ -12,6 +13,7 @@ A chronological index of notable events, works, and discoveries of the year 1776
 
 | Date | Event | Category | File |
 |---|---|---|---|
+| 1775-11-07 | Dunmore's Ethiopian Regiment — Lord Dunmore's November 1775 proclamation offers freedom to enslaved Virginians who reach British lines, creating the first large-scale Black military unit in North America before smallpox devastates it in 1776 | Military Events | [military/dunmores-ethiopian-regiment.md]({{ '/news/military/dunmores-ethiopian-regiment/' | relative_url }}) |
 | 1776-01-01 | Mozart in 1776 — prolific Salzburg compositions including Serenata notturna K. 239 and three piano concertos | Arts & Culture | [arts/mozart-1776.md]({{ '/news/arts/mozart-1776/' | relative_url }}) |
 | 1776-01-01 | The British Empire in 1776 — global imperial reach and the policies that precipitated the American Revolution | Political Events | [politics/british-empire-1776.md]({{ '/news/politics/british-empire-1776/' | relative_url }}) |
 | 1776-01-01 | Buffon continues his *Histoire naturelle*, advancing biogeography and early evolutionary thought | Science & Discovery | [science/buffon-natural-history.md]({{ '/news/science/buffon-natural-history/' | relative_url }}) |
@@ -76,6 +78,7 @@ A chronological index of notable events, works, and discoveries of the year 1776
 | 1776-10-11 | Battle of Valcour Island — Benedict Arnold's Lake Champlain fleet is defeated but delays General Carleton's advance until 1777, a strategic American victory | Military Events | [military/battle-of-valcour-island-1776.md]({{ '/news/military/battle-of-valcour-island-1776/' | relative_url }}) |
 | 1776-10-26 | Benjamin Franklin sails from Philadelphia for France to negotiate the Treaty of Alliance | Key Figures | [people/benjamin-franklin-1776.md]({{ '/news/people/benjamin-franklin-1776/' | relative_url }}) |
 | 1776-10-28 | Battle of White Plains — Howe drives Washington from Chatterton's Hill, but the Continental Army withdraws intact | Military Events | [military/battle-of-white-plains.md]({{ '/news/military/battle-of-white-plains/' | relative_url }}) |
+| 1776-10-31 | British Opposition to the War — Whig politicians Edmund Burke and Charles James Fox lead parliamentary opposition to the American war, Fox delivering a celebrated oration against Lord North on October 31 | Political Events | [politics/british-opposition-1776.md]({{ '/news/politics/british-opposition-1776/' | relative_url }}) |
 | 1776-11-01 | Alessandro Volta identifies "inflammable air from marshes" (methane) at Lake Maggiore, founding its scientific study | Science & Discovery | [science/volta-methane-1776.md]({{ '/news/science/volta-methane-1776/' | relative_url }}) |
 | 1776-11-10 | Lord George Germain, Secretary of State for the Colonies, directs British war strategy against the American rebellion | Key Figures | [people/lord-george-germain-1776.md]({{ '/news/people/lord-george-germain-1776/' | relative_url }}) |
 | 1776-11-16 | Battle of Fort Washington — Manhattan's last American fort falls; nearly 2,900 troops captured, forcing the retreat across New Jersey | Military Events | [military/battle-of-fort-washington.md]({{ '/news/military/battle-of-fort-washington/' | relative_url }}) |
@@ -83,6 +86,7 @@ A chronological index of notable events, works, and discoveries of the year 1776
 | 1776-12-19 | Thomas Paine's *The American Crisis, Number I* first appears, opening "These are the times that try men's souls" during the retreat before Trenton | Arts & Culture | [arts/american-crisis-1776.md]({{ '/news/arts/american-crisis-1776/' | relative_url }}) |
 | 1776-12-26 | Battle of Trenton — Washington crosses the Delaware; Hessian garrison captured | Military Events | [military/battle-of-trenton.md]({{ '/news/military/battle-of-trenton/' | relative_url }}) |
 | 1776-12-26 | George Washington in 1776 — after liberating Boston and losing New York, the commander-in-chief's Delaware crossing and Trenton victory reverse the Revolution's darkest year | Key Figures | [people/george-washington-1776.md]({{ '/news/people/george-washington-1776/' | relative_url }}) |
+| 1777-02-05 | Smallpox Inoculation in the Continental Army — Washington mandates inoculation of all recruits, the first mass immunization policy in American military history, in response to the disease crisis of 1776 | Science & Discovery | [science/smallpox-inoculation-continental-army.md]({{ '/news/science/smallpox-inoculation-continental-army/' | relative_url }}) |
 | 1778-02-06 | France and the United States sign the Treaty of Alliance and Treaty of Amity and Commerce — the first U.S. alliance, rooted in covert French aid begun in 1776 | Political Events | [politics/french-alliance-1778.md]({{ '/news/politics/french-alliance-1778/' | relative_url }}) |
 
 <!-- END GENERATED: timeline -->
