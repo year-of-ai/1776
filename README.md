@@ -101,6 +101,7 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Dunmore's Ethiopian Regiment]({{ '/news/military/dunmores-ethiopian-regiment/' | relative_url }}) | Lord Dunmore's November 1775 proclamation offering freedom to enslaved people who joined British forces created the first large-scale Black military unit in North America; by 1776, disease killed hundreds despite military participation in Norfolk, Long Island, and elsewhere. |
 | [The Founding of Phi Beta Kappa]({{ '/news/arts/phi-beta-kappa-1776/' | relative_url }}) | Founded December 5, 1776 at William & Mary, it was the first American collegiate Greek-letter society, the template for later fraternities and honor societies. |
 | [Smallpox Inoculation in the Continental Army]({{ '/news/science/smallpox-inoculation-continental-army/' | relative_url }}) | Washington's February 1777 mandate requiring inoculation of all Continental Army troops, rooted in the disease crisis of 1776, established the first mass immunization policy in American military history and advanced public health strategy as military necessity. |
+| [The Treaty of Watertown]({{ '/news/politics/treaty-of-watertown-1776/' | relative_url }}) | Signed July 19, 1776 with the Mi'kmaq and Maliseet nations, it is often called the first treaty entered into by the independent United States. |
 
 ---
 
