@@ -104,6 +104,8 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [The Founding of Phi Beta Kappa]({{ '/news/arts/phi-beta-kappa-1776/' | relative_url }}) | Founded December 5, 1776 at William & Mary, it was the first American collegiate Greek-letter society, the template for later fraternities and honor societies. |
 | [Smallpox Inoculation in the Continental Army]({{ '/news/science/smallpox-inoculation-continental-army/' | relative_url }}) | Washington's February 1777 mandate requiring inoculation of all Continental Army troops, rooted in the disease crisis of 1776, established the first mass immunization policy in American military history and advanced public health strategy as military necessity. |
 | [The Treaty of Watertown]({{ '/news/politics/treaty-of-watertown-1776/' | relative_url }}) | Signed July 19, 1776 with the Mi'kmaq and Maliseet nations, it is often called the first treaty entered into by the independent United States. |
+| [Roger Sherman]({{ '/news/people/roger-sherman/' | relative_url }}) | Connecticut delegate and Committee of Five member; the only person to sign all four founding documents, from the 1774 Association to the 1787 Constitution. |
+| [The Mecklenburg Declaration of Independence]({{ '/news/politics/mecklenburg-declaration/' | relative_url }}) | A disputed May 20, 1776 North Carolina county declaration predating the federal Declaration by 45 days, illustrating independence as a grassroots, county-by-county process. |
 
 ---
 
