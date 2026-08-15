@@ -106,6 +106,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [The Treaty of Watertown]({{ '/news/politics/treaty-of-watertown-1776/' | relative_url }}) | Signed July 19, 1776 with the Mi'kmaq and Maliseet nations, it is often called the first treaty entered into by the independent United States. |
 | [Roger Sherman]({{ '/news/people/roger-sherman/' | relative_url }}) | Connecticut delegate and Committee of Five member; the only person to sign all four founding documents, from the 1774 Association to the 1787 Constitution. |
 | [The Mecklenburg Declaration of Independence]({{ '/news/politics/mecklenburg-declaration/' | relative_url }}) | A disputed May 20, 1776 North Carolina county declaration predating the federal Declaration by 45 days, illustrating independence as a grassroots, county-by-county process. |
+| [Patrick Henry in 1776 — Orator of Liberty]({{ '/news/people/patrick-henry-1776/' | relative_url }}) | Virginia's fiery orator and delegate, Henry's rhetorical power shaped the Revolution's ideological thrust against British tyranny. |
+| [Spanish Crown and Colonial Policy in 1776]({{ '/news/politics/spanish-empire-1776/' | relative_url }}) | Spain maintained vast American territories and continued imperial expansion, including founding San Francisco on September 17, reshaping imperial competition. |
+| [Water Mills and Industrial Power in 1776]({{ '/news/economics/milling-water-power-1776/' | relative_url }}) | Water-powered mills dominated pre-steam economies, anchoring industrial geography; Watt's 1776 steam engine signaled the beginning of liberation from water power's geographic constraints. |
 
 ---
 
