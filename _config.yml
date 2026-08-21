@@ -17,6 +17,21 @@ kramdown:
 permalink: pretty
 teaser: /images/previews/default.svg
 og_image: /images/previews/default.svg
+
+# Masthead brand mark. Unset, the theme's header renders
+# <img src="{{ site.logo | relative_url }}"> with an empty path, which resolves
+# to the baseurl itself ("/1776") and shows a broken image on every page.
+logo: /assets/images/favicon.svg
+
+# Browser identity. The theme's _includes/core/favicon.html always emits the
+# `ico` link and assumes the consuming site carries a favicon at its root —
+# jekyll-remote-theme copies only _layouts/_includes/_sass/assets, so the
+# theme's own root favicon.ico never reaches a member and /1776/favicon.ico
+# 404'd. Both files are minted by the hub's scripts/generate-favicon.rb.
+favicon:
+  ico: /favicon.ico
+  svg: /assets/images/favicon.svg
+
 # README.md becomes the site homepage via jekyll-readme-index.
 plugins:
   - jekyll-remote-theme
@@ -41,6 +56,12 @@ defaults:
       type: posts
     values:
       layout: article
+      # The theme's article layout renders the top-of-page hero from
+      # `page.preview` only for featured/breaking posts unless a post opts in
+      # (_layouts/article.html, issue #303). Every article here carries a
+      # preview, so opt the whole collection in — the layout still guards on
+      # `page.preview`, so a post without one simply renders no hero.
+      show_hero: true
       author_profile: false
       read_time: true
       share: true
