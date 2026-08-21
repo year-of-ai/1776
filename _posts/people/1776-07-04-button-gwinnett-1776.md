@@ -8,6 +8,7 @@ tags:
 - southern revolution
 - declaration signers
 excerpt: Gwinnett, a merchant and planter from Georgia, signed the Declaration of Independence and assumed a controversial leadership role in the state's revolutionary government, navigating tensions between Loyalism and independence in the South.
+preview: /images/previews/people.svg
 permalink: "/news/people/button-gwinnett-1776/"
 ---
 
