@@ -114,6 +114,8 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Religion and the American Revolution in 1776]({{ '/news/politics/religion-american-revolution/' | relative_url }}) | Religious conviction and clerical authority profoundly shaped independence ideology, linking colonial liberty to divine sanction and Christian moral law in the Revolutionary cause. |
 | [Women Writers and Intellectuals of 1776]({{ '/news/arts/women-writers-intellectuals/' | relative_url }}) | Female poets, essayists, and thinkers asserted intellectual authority in revolutionary discourse through literature and letters, despite systematic exclusion from formal political participation. |
 | [Water Mills and Industrial Power in 1776]({{ '/news/economics/milling-water-power-1776/' | relative_url }}) | Water-powered mills dominated pre-steam economies, anchoring industrial geography; Watt's 1776 steam engine signaled the beginning of liberation from water power's geographic constraints. |
+| [Textile Manufacturing and Trade Disruption in 1776]({{ '/news/economics/textile-manufacturing-1776/' | relative_url }}) | Naval blockade and the homespun movement collapsed British cloth imports in 1776, forcing domestic manufacturing that seeded American industrial independence. |
+| [Medicine & Physicians in 1776]({{ '/news/science/medicine-physicians-1776/' | relative_url }}) | Revolutionary War epidemics of smallpox and camp fever killed far more soldiers than combat, forcing the institutional birth of American military medicine. |
 
 ---
 
