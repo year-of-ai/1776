@@ -122,6 +122,9 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [Black Sailors and Privateers in the Revolutionary War Economy of 1776]({{ '/news/economics/black-privateers-sailors/' | relative_url }}) | Enslaved and free Black sailors crewed the privateer fleet, comprising an estimated 10–15% of crews; their service and post-war freedom remained contested. |
 | [Medicine & Physicians in 1776]({{ '/news/science/medicine-physicians-1776/' | relative_url }}) | Revolutionary War epidemics of smallpox and camp fever killed far more soldiers than combat, forcing the institutional birth of American military medicine. |
 | [The Venus Transit Observations of 1761/1769 and Astronomical Science in 1776]({{ '/news/science/venus-transit-observations/' | relative_url }}) | International Venus transit observations established the astronomical distance scale; Rittenhouse's Norriton observations in 1769 linked American science to global scientific enterprise. |
+| [King George III in 1776]({{ '/news/people/king-george-iii-1776/' | relative_url }}) | Britain's monarch drove 1776 war policy, authorizing the Prohibitory Act, Hessian contracts, and the New York campaign while refusing to recognize American independence. |
+| [Sir Joseph Banks and the Royal Society in 1776]({{ '/news/science/joseph-banks-royal-society/' | relative_url }}) | Back from Cook's first voyage, the naturalist rose to prominence in 1776, patronizing Cook's third expedition and building Kew Gardens into an imperial institution. |
+| [Joseph Priestley and Pneumatic Chemistry in 1776]({{ '/news/science/joseph-priestley-gases/' | relative_url }}) | Priestley's 1776 pneumatic chemistry characterized multiple gases; his 'dephlogisticated air' gave Lavoisier the evidence to name oxygen and overturn phlogiston theory. |
 
 ---
 
