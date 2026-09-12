@@ -6,6 +6,7 @@ categories:
   - Key Figures
 tags: [british-monarchy, politics, american-revolution]
 excerpt: "Britain's monarch oversaw the critical military and political decisions defining 1776, from the Prohibitory Act to the New York campaign, profoundly shaping the war's trajectory."
+permalink: "/news/people/king-george-iii-1776/"
 ---
 
 # King George III in 1776

@@ -128,6 +128,8 @@ A self-growing, encyclopedic knowledge base covering the events, people, works, 
 | [King George III in 1776]({{ '/news/people/king-george-iii-1776/' | relative_url }}) | Britain's monarch drove 1776 war policy, authorizing the Prohibitory Act, Hessian contracts, and the New York campaign while refusing to recognize American independence. |
 | [Sir Joseph Banks and the Royal Society in 1776]({{ '/news/science/joseph-banks-royal-society/' | relative_url }}) | Back from Cook's first voyage, the naturalist rose to prominence in 1776, patronizing Cook's third expedition and building Kew Gardens into an imperial institution. |
 | [Joseph Priestley and Pneumatic Chemistry in 1776]({{ '/news/science/joseph-priestley-gases/' | relative_url }}) | Priestley's 1776 pneumatic chemistry characterized multiple gases; his 'dephlogisticated air' gave Lavoisier the evidence to name oxygen and overturn phlogiston theory. |
+| [Joshua Reynolds and Portrait Painting in 1776]({{ '/news/arts/joshua-reynolds-portrait-painter/' | relative_url }}) | Britain's leading portraitist and founding Royal Academy president dominated 1776's art world, his Grand Manner portraits and Discourses shaping British academic art for generations. |
+| [William Cowper's Mental Crisis and Poetry of 1776]({{ '/news/arts/william-cowper-poetry-crisis/' | relative_url }}) | Amid a severe 1776 mental crisis, the English poet composed Olney Hymns bridging devotional and literary worlds, prefiguring Romantic introspection and abolitionist verse. |
 
 ---
 

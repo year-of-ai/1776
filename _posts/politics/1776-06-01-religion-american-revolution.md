@@ -10,6 +10,7 @@ tags:
   - revolutionary-thought
 excerpt: "Religious conviction and clerical authority shaped 1776 independence as profoundly as political theory, linking colonial liberty to divine sanction and Christian moral law."
 preview: /images/previews/religion-and-the-american-revolution-in-1776.svg
+permalink: "/news/politics/religion-american-revolution/"
 ---
 
 **Key figures**: John Witherspoon, Samuel Hopkins, Jacob Duché, Philip Vickers Fithian, Jonathan Mayhew
