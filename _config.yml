@@ -81,3 +81,6 @@ exclude:
   - CLAUDE.md
   - .claude/
   - telemetry/
+  - docs/constitution.md
+  - docs/amendments/
+  - features/
